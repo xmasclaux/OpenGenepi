@@ -1,0 +1,34 @@
+Feb 15 11:11:47 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:48 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/act/index" (/).
+Feb 15 11:11:48 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:49 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/act_price/index" (/).
+Feb 15 11:11:49 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:49 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/address/index" (/).
+Feb 15 11:11:50 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:50 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/addressCountry/index" (/).
+Feb 15 11:11:51 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:51 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/auth/index" (/).
+Feb 15 11:11:52 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:52 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/configuration/index" (/).
+Feb 15 11:11:53 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:53 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/dashboard/index" (/).
+Feb 15 11:11:54 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:54 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/event/index" (/).
+Feb 15 11:11:55 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:55 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/moderator/index" (/).
+Feb 15 11:11:56 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:56 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/parameter/index" (/).
+Feb 15 11:11:56 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:57 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/public/index" (/).
+Feb 15 11:11:57 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:58 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/startup/index" (/).
+Feb 15 11:11:58 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:58 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/stat/index" (/).
+Feb 15 11:11:59 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:11:59 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/struct/index" (/).
+Feb 15 11:12:00 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:12:00 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/use/index" (/).
+Feb 15 11:12:00 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:12:00 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/user/index" (/).
+Feb 15 11:12:01 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'startup',  'action' => 'init',)
+Feb 15 11:12:01 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/userSeg/index" (/).

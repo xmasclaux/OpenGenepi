@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<applications>
+	<application id="core">
+		<name>Core</name>
+		<path>core/</path>
+		<module id="kernel">
+			<name>kernel</name>
+			<path>modules/kernel</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>null</module_menu_name>
+		</module>
+		<module id="dbi">
+			<name>dbi</name>
+			<path>modules/dbi</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>null</module_menu_name>
+		</module>
+		<module id="ihm">
+			<name>ihm</name>
+			<path>modules/ihm</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>null</module_menu_name>
+		</module>
+	</application>
+	<application id="mgmt">
+		<name>Management</name>
+		<path>mgmt/</path>
+		<module id="dashboard">
+			<name>dashboard</name>
+			<path>modules/dashboard</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>Dashboard</module_menu_name>
+		</module>
+		<module id="user">
+			<name>user</name>
+			<path>modules/user</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>Users</module_menu_name>
+		</module>
+		<module id="startup">
+			<name>startup</name>
+			<path>modules/startup</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>null</module_menu_name>
+		</module>
+		<module id="configuration">
+			<name>configuration</name>
+			<path>modules/configuration</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>null</module_menu_name>
+		</module>
+		<module id="auth">
+			<name>auth</name>
+			<path>modules/auth</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>null</module_menu_name>
+		</module>
+		<module id="moderator">
+			<name>moderator</name>
+			<path>modules/moderator</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>null</module_menu_name>
+		</module>
+		<module id="struct">
+			<name>struct</name>
+			<path>modules/struct</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>null</module_menu_name>
+		</module>
+		<module id="act">
+			<name>act</name>
+			<path>modules/act</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>null</module_menu_name>
+		</module>
+		<module id="address">
+			<name>address</name>
+			<path>modules/address</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>null</module_menu_name>
+		</module>
+		<module id="act_price">
+			<name>act_price</name>
+			<path>modules/act_price</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>null</module_menu_name>
+		</module>
+		<module id="use">
+			<name>use</name>
+			<path>modules/use</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>Uses</module_menu_name>
+		</module>
+		<module id="filter">
+			<name>filter</name>
+			<path>modules/filter</path>
+			<compulsory>no</compulsory>
+			<module_menu_name>Filters</module_menu_name>
+		</module>
+		<module id="reservation">
+			<name>reservation</name>
+			<path>modules/reservation</path>
+			<compulsory>yes</compulsory>
+			<module_menu_name>Reservations</module_menu_name>
+		</module>
+		<module id="stat">
+			<name>stat</name>
+			<path>modules/stat</path>
+			<compulsory>no</compulsory>
+			<module_menu_name>Statistics</module_menu_name>
+		</module>
+		<module id="event">
+			<name>event</name>
+			<path>modules/event</path>
+			<compulsory>no</compulsory>
+			<module_menu_name>Events</module_menu_name>
+		</module>
+	</application>
+</applications>

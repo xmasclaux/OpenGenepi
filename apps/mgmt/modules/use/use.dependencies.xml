@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies>
+	<dependency>
+		<module>user</module>
+	</dependency>
+	<dependency>
+		<module>act_price</module>
+	</dependency>
+</dependencies>
+
+

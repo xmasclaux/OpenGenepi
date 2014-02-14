@@ -1,0 +1,2 @@
+all:
+  doctrine: { class: sfDoctrineDatabase, param: { dsn: 'mysql:host=pyxis.kyxar.fr;dbname=epi_dev_kyxar;port=3306', username: polenum, password: parToutatis45! } }

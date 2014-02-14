@@ -1,0 +1,17 @@
+{
+	"sProcessing":   "Processing...",
+	"sLengthMenu":   "Show _MENU_ entries",
+	"sZeroRecords":  "No matching records found",
+	"sInfo":         "_TOTAL_ user(s) added",
+	"sInfoEmpty":    "",
+	"sInfoFiltered": "",
+	"sInfoPostFix":  "",
+	"sSearch":       "Search:",
+	"sUrl":          "",
+	"oPaginate": {
+		"sFirst":    "First",
+		"sPrevious": "Previous",
+		"sNext":     "Next",
+		"sLast":     "Last"
+	}
+}

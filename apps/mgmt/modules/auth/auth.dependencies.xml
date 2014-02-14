@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies>
+	<dependency>
+		<module>kernel</module>
+	</dependency>
+	<dependency>
+		<module>dbi</module>
+	</dependency>
+	<dependency>
+		<module>ihm</module>
+	</dependency>
+</dependencies>

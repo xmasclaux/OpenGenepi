@@ -1,0 +1,17 @@
+{
+	"sProcessing":   "Traitement en cours...",
+	"sLengthMenu":   "Afficher _MENU_ éléments",
+	"sZeroRecords":  "Aucun élément à afficher",
+	"sInfo":         "_TOTAL_ utilisateur(s) ajouté(s)",
+	"sInfoEmpty":    "",
+	"sInfoFiltered": "",
+	"sInfoPostFix":  "",
+	"sSearch":       "Rechercher:",
+	"sUrl":          "",
+	"oPaginate": {
+		"sFirst":    "Premier",
+		"sPrevious": "Précédent",
+		"sNext":     "Suivant",
+		"sLast":     "Dernier"
+	}
+}

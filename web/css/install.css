@@ -1,0 +1,62 @@
+body 
+{
+	background-repeat: repeat;
+	background-image: url('../images/fontStripe.png'); 
+	background-attachment: fixed; 
+	padding: 0px;
+	margin: 0px;
+	font-family: Verdana,Arial,sans-serif;
+}
+
+div#pageInstallFrame 
+{
+	overflow: auto;
+
+	width:auto;
+
+	margin-left: 1%;
+	margin-right: 1%;
+	
+	min-width: 920px;
+	min-height: 600px;
+	position : relative;
+	height: auto;
+	
+	background-color: #e1e1e1;
+	border-color: #b00000;
+	border: 3px solid #600b0f; 
+
+	margin-top: 10px;
+	padding: 20px;
+}
+
+
+div#explanation
+{
+	font-weight: bold;
+	color: #800000;
+	font-size: 16px;
+}
+
+div#explanationChecked
+{
+	font-weight: bold;
+	color: green;
+	font-size: 16px;
+}
+
+div#panel
+{
+	overflow:visible;
+	background-color: #f2f2f2;
+	margin:5px;
+	margin-top:20px;
+	padding:5px;
+	width:100%; 
+	height:auto; 
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 14.3px;
+}

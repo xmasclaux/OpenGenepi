@@ -1,0 +1,49 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: startup, action: init }
+
+localized_homepage:
+  url:   /:sf_culture/
+  param: { module: dashboard, action: index }
+  requirements:
+    sf_culture: (?:fr|en)
+       
+authentification:
+  url:   /:sf_culture/
+  param: { module: auth, action: index }
+  requirements:
+    sf_culture: (?:fr|en)
+    
+
+
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /:sf_culture/:module
+  param: { action: index }
+  requirements:
+    sf_culture: (?:fr|en)
+
+address_getCities:
+  url:   /:sf_culture/:module/:action
+  param:  { module: address, action: getCities }
+  requirements:
+    sf_culture: (?:fr|en)
+  
+change_language:
+  url:   /change_language
+  param: { module: user, action: changeLanguage }
+  
+default:
+  url:   /:sf_culture/:module/:action/*
+  requirements:
+    sf_culture: (?:fr|en)
+    
+# Modification KYXAR : ajout du module 'Filter'
+filter:
+  url:      /filter/:slug
+  param:    { module: filter, action: show }

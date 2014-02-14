@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+	<param id="ip_address">
+		<name>ip_address</name>
+		
+	<value>pyxis.kyxar.fr</value></param>
+	<param id="srv_port">
+		<name>srv_port</name>
+		
+	<value>3306</value></param>
+	<param id="dbms">
+		<name>dbms</name>
+		
+	<value>1</value></param>
+	<param id="db_name">
+		<name>db_name</name>
+		
+	<value>epi_dev_kyxar</value></param>
+	<param id="db_user_name">
+		<name>db_user_name</name>
+		
+	<value>polenum</value></param>
+	<param id="db_password">
+		<name>db_password</name>
+		
+	<value>parToutatis45!</value></param>
+</parameters>

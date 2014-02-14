@@ -1,0 +1,60 @@
+body
+{
+	font: 13px "Lucida Grande", Lucida, Verdana, sans-serif;	
+}
+
+.ui-widget-overlay 
+{ 
+	background: #aaaaaa; 
+	opacity: .50;
+	filter: Alpha(Opacity=50); 
+}
+
+.ui-dialog .ui-dialog-titlebar-close 
+{ 
+	display:none; 
+}
+
+div#menus 
+{
+	margin-top: 50px;
+}
+
+th
+{
+	 background: none;
+	 color: #000000; 
+	 text-align:right;
+	 width: 30%;
+}
+
+th:hover
+{
+	 background: none;
+	 color: #000000; 
+}
+
+table#auth
+{
+	width: 100%;
+}
+
+.valid
+{
+	float: right;
+}
+
+.error-message-red
+{
+	float: right;
+	width: 490px;
+	margin: 0px;
+	margin-top:10px;
+	padding: 5px;
+	border: 1px solid #cd0a0a;
+	background: #FFA8A9;
+	color: #cd0a0a;
+	-moz-border-radius: 4px; 
+	-webkit-border-radius: 4px; 
+	border-radius: 4px;
+}

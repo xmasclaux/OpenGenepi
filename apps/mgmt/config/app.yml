@@ -1,0 +1,26 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  swToolbox:
+    cross_link_application:
+      core:
+        enabled: on                         # enable the feature
+        load:
+          mgmt:
+            routes:                         # routes to load, leave empty will load all the routes
+              - default
+            env:                            # define the environment
+              dev: localhost/mgmt_dev.php   # define the full path for the dev environnement
+              prod: localhost/index.php     # define the full path for the prod environnement
+ 
+      mgmt:
+        enabled: on
+        load:
+          core:
+            routes:
+              - homepage
+            env:
+              dev: localhost/core_dev.php
+              prod: localhost/core.php

@@ -1,0 +1,25 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/13-View
+
+default:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    #title:        symfony project
+    #description:  symfony project
+    #keywords:     symfony, project
+    #language:     en
+    #robots:       index, follow
+
+  #The order of the stylesheets inclusion is important.
+  #We erase some default properties of the jquery-ui-1.8.custom.css with new properties, in the next files.
+   
+  stylesheets:    [jquery-ui-1.8.custom.css, layout.css, content.css, menu.css, auth.css]
+
+  javascripts:    [jquery-1.4.2.min.js, jquery-ui-1.8.custom.min.js]
+
+  has_layout:     true
+  layout:         authLayout
+
+  

@@ -1,0 +1,551 @@
+UserSeg:
+  UserSeg_1:
+    designation: Etudiant
+  UserSeg_2:
+    designation: Retraité
+ImputationMethodOfPayment:
+  ImputationMethodOfPayment_1:
+    designation: Cheque
+  ImputationMethodOfPayment_2:
+    designation: Cash
+  ImputationMethodOfPayment_3:
+    designation: Account
+  ImputationMethodOfPayment_4:
+    designation: 'In kind'
+Unity:
+  Unity_1:
+    designation: euros
+    shortened_designation: €
+  Unity_2:
+    designation: hour(s)
+    shortened_designation: h
+  Unity_3:
+    designation: 'quarter hour'
+    shortened_designation: '1/4 h'
+  Unity_4:
+    designation: 'half hour'
+    shortened_designation: '1/2 h'
+  Unity_5:
+    designation: unit(s)
+    shortened_designation: u
+  Unity_6:
+    designation: day(s)
+    shortened_designation: d
+  Unity_7:
+    designation: week(s)
+    shortened_designation: w
+  Unity_8:
+    designation: month(s)
+    shortened_designation: m
+  Unity_9:
+    designation: year(s)
+    shortened_designation: y
+ComputerMachineType:
+  ComputerMachineType_1:
+    designation: Desktop
+  ComputerMachineType_2:
+    designation: Laptop
+AddressCountry:
+  AddressCountry_1:
+    name: Afghanistan
+  AddressCountry_2:
+    name: 'Aringland Islands'
+  AddressCountry_3:
+    name: Albania
+  AddressCountry_4:
+    name: Algeria
+  AddressCountry_5:
+    name: 'American Samoa'
+  AddressCountry_6:
+    name: Andorra
+  AddressCountry_7:
+    name: Angola
+  AddressCountry_8:
+    name: Anguilla
+  AddressCountry_9:
+    name: Antarctica
+  AddressCountry_10:
+    name: 'Antigua and Barbuda'
+  AddressCountry_11:
+    name: Argentina
+  AddressCountry_12:
+    name: Armenia
+  AddressCountry_13:
+    name: Aruba
+  AddressCountry_14:
+    name: Australia
+  AddressCountry_15:
+    name: Austria
+  AddressCountry_16:
+    name: Azerbaijan
+  AddressCountry_17:
+    name: Bahamas
+  AddressCountry_18:
+    name: Bahrain
+  AddressCountry_19:
+    name: Bangladesh
+  AddressCountry_20:
+    name: Barbados
+  AddressCountry_21:
+    name: Belarus
+  AddressCountry_22:
+    name: Belgium
+  AddressCountry_23:
+    name: Belize
+  AddressCountry_24:
+    name: Benin
+  AddressCountry_25:
+    name: Bermuda
+  AddressCountry_26:
+    name: Bhutan
+  AddressCountry_27:
+    name: Bolivia
+  AddressCountry_28:
+    name: 'Bosnia and Herzegovina'
+  AddressCountry_29:
+    name: Botswana
+  AddressCountry_30:
+    name: 'Bouvet Island'
+  AddressCountry_31:
+    name: Brazil
+  AddressCountry_32:
+    name: 'British Indian Ocean territory'
+  AddressCountry_33:
+    name: 'Brunei Darussalam'
+  AddressCountry_34:
+    name: Bulgaria
+  AddressCountry_35:
+    name: 'Burkina Faso'
+  AddressCountry_36:
+    name: Burundi
+  AddressCountry_37:
+    name: Cambodia
+  AddressCountry_38:
+    name: Cameroon
+  AddressCountry_39:
+    name: Canada
+  AddressCountry_40:
+    name: 'Cape Verde'
+  AddressCountry_41:
+    name: 'Cayman Islands'
+  AddressCountry_42:
+    name: 'Central African Republic'
+  AddressCountry_43:
+    name: Chad
+  AddressCountry_44:
+    name: Chile
+  AddressCountry_45:
+    name: China
+  AddressCountry_46:
+    name: 'Christmas Island'
+  AddressCountry_47:
+    name: 'Cocos (Keeling) Islands'
+  AddressCountry_48:
+    name: Colombia
+  AddressCountry_49:
+    name: Comoros
+  AddressCountry_50:
+    name: Congo
+  AddressCountry_51:
+    name: Congo
+  AddressCountry_52:
+    name: ' Democratic Republic'
+  AddressCountry_53:
+    name: 'Cook Islands'
+  AddressCountry_54:
+    name: 'Costa Rica'
+  AddressCountry_55:
+    name: 'C&ocirc;te d&#39;Ivoire (Ivory Coast)'
+  AddressCountry_56:
+    name: 'Croatia (Hrvatska)'
+  AddressCountry_57:
+    name: Cuba
+  AddressCountry_58:
+    name: Cyprus
+  AddressCountry_59:
+    name: 'Czech Republic'
+  AddressCountry_60:
+    name: Denmark
+  AddressCountry_61:
+    name: Djibouti
+  AddressCountry_62:
+    name: Dominica
+  AddressCountry_63:
+    name: 'Dominican Republic'
+  AddressCountry_64:
+    name: 'East Timor'
+  AddressCountry_65:
+    name: Ecuador
+  AddressCountry_66:
+    name: Egypt
+  AddressCountry_67:
+    name: 'El Salvador'
+  AddressCountry_68:
+    name: 'Equatorial Guinea'
+  AddressCountry_69:
+    name: Eritrea
+  AddressCountry_70:
+    name: Estonia
+  AddressCountry_71:
+    name: Ethiopia
+  AddressCountry_72:
+    name: 'Falkland Islands'
+  AddressCountry_73:
+    name: 'Faroe Islands'
+  AddressCountry_74:
+    name: Fiji
+  AddressCountry_75:
+    name: Finland
+  AddressCountry_76:
+    name: France
+  AddressCountry_77:
+    name: 'French Guiana'
+  AddressCountry_78:
+    name: 'French Polynesia'
+  AddressCountry_79:
+    name: 'French Southern Territories'
+  AddressCountry_80:
+    name: Gabon
+  AddressCountry_81:
+    name: Gambia
+  AddressCountry_82:
+    name: Georgia
+  AddressCountry_83:
+    name: Germany
+  AddressCountry_84:
+    name: Ghana
+  AddressCountry_85:
+    name: Gibraltar
+  AddressCountry_86:
+    name: Greece
+  AddressCountry_87:
+    name: Greenland
+  AddressCountry_88:
+    name: Grenada
+  AddressCountry_89:
+    name: Guadeloupe
+  AddressCountry_90:
+    name: Guam
+  AddressCountry_91:
+    name: Guatemala
+  AddressCountry_92:
+    name: Guinea
+  AddressCountry_93:
+    name: Guinea-Bissau
+  AddressCountry_94:
+    name: Guyana
+  AddressCountry_95:
+    name: Haiti
+  AddressCountry_96:
+    name: 'Heard and McDonald Islands'
+  AddressCountry_97:
+    name: Honduras
+  AddressCountry_98:
+    name: 'Hong Kong'
+  AddressCountry_99:
+    name: Hungary
+  AddressCountry_100:
+    name: Iceland
+  AddressCountry_101:
+    name: India
+  AddressCountry_102:
+    name: Indonesia
+  AddressCountry_103:
+    name: Iran
+  AddressCountry_104:
+    name: Iraq
+  AddressCountry_105:
+    name: Ireland
+  AddressCountry_106:
+    name: Israel
+  AddressCountry_107:
+    name: Italy
+  AddressCountry_108:
+    name: Jamaica
+  AddressCountry_109:
+    name: Japan
+  AddressCountry_110:
+    name: Jordan
+  AddressCountry_111:
+    name: Kazakhstan
+  AddressCountry_112:
+    name: Kenya
+  AddressCountry_113:
+    name: Kiribati
+  AddressCountry_114:
+    name: 'Korea (north)'
+  AddressCountry_115:
+    name: 'Korea (south)'
+  AddressCountry_116:
+    name: Kuwait
+  AddressCountry_117:
+    name: Kyrgyzstan
+  AddressCountry_118:
+    name: 'Lao People&#39;s Democratic Republic'
+  AddressCountry_119:
+    name: Latvia
+  AddressCountry_120:
+    name: Lebanon
+  AddressCountry_121:
+    name: Lesotho
+  AddressCountry_122:
+    name: Liberia
+  AddressCountry_123:
+    name: 'Libyan Arab Jamahiriya'
+  AddressCountry_124:
+    name: Liechtenstein
+  AddressCountry_125:
+    name: Lithuania
+  AddressCountry_126:
+    name: Luxembourg
+  AddressCountry_127:
+    name: Macao
+  AddressCountry_128:
+    name: Macedonia
+  AddressCountry_129:
+    name: Madagascar
+  AddressCountry_130:
+    name: Malawi
+  AddressCountry_131:
+    name: Malaysia
+  AddressCountry_132:
+    name: Maldives
+  AddressCountry_133:
+    name: Mali
+  AddressCountry_134:
+    name: Malta
+  AddressCountry_135:
+    name: 'Marshall Islands'
+  AddressCountry_136:
+    name: Martinique
+  AddressCountry_137:
+    name: Mauritania
+  AddressCountry_138:
+    name: Mauritius
+  AddressCountry_139:
+    name: Mayotte
+  AddressCountry_140:
+    name: Mexico
+  AddressCountry_141:
+    name: Micronesia
+  AddressCountry_142:
+    name: Moldova
+  AddressCountry_143:
+    name: Monaco
+  AddressCountry_144:
+    name: Mongolia
+  AddressCountry_145:
+    name: Montserrat
+  AddressCountry_146:
+    name: Morocco
+  AddressCountry_147:
+    name: Mozambique
+  AddressCountry_148:
+    name: Myanmar
+  AddressCountry_149:
+    name: Namibia
+  AddressCountry_150:
+    name: Nauru
+  AddressCountry_151:
+    name: Nepal
+  AddressCountry_152:
+    name: Netherlands
+  AddressCountry_153:
+    name: 'Netherlands Antilles'
+  AddressCountry_154:
+    name: 'New Caledonia'
+  AddressCountry_155:
+    name: 'New Zealand'
+  AddressCountry_156:
+    name: Nicaragua
+  AddressCountry_157:
+    name: Niger
+  AddressCountry_158:
+    name: Nigeria
+  AddressCountry_159:
+    name: Niue
+  AddressCountry_160:
+    name: 'Norfolk Island'
+  AddressCountry_161:
+    name: 'Northern Mariana Islands'
+  AddressCountry_162:
+    name: Norway
+  AddressCountry_163:
+    name: Oman
+  AddressCountry_164:
+    name: Pakistan
+  AddressCountry_165:
+    name: Palau
+  AddressCountry_166:
+    name: 'Palestinian Territories'
+  AddressCountry_167:
+    name: Panama
+  AddressCountry_168:
+    name: 'Papua New Guinea'
+  AddressCountry_169:
+    name: Paraguay
+  AddressCountry_170:
+    name: Peru
+  AddressCountry_171:
+    name: Philippines
+  AddressCountry_172:
+    name: Pitcairn
+  AddressCountry_173:
+    name: Poland
+  AddressCountry_174:
+    name: Portugal
+  AddressCountry_175:
+    name: 'Puerto Rico'
+  AddressCountry_176:
+    name: Qatar
+  AddressCountry_177:
+    name: 'R&eacute;union'
+  AddressCountry_178:
+    name: Romania
+  AddressCountry_179:
+    name: 'Russian Federation'
+  AddressCountry_180:
+    name: Rwanda
+  AddressCountry_181:
+    name: 'Saint Helena'
+  AddressCountry_182:
+    name: 'Saint Kitts and Nevis'
+  AddressCountry_183:
+    name: 'Saint Lucia'
+  AddressCountry_184:
+    name: 'Saint Pierre and Miquelon'
+  AddressCountry_185:
+    name: 'Saint Vincent and the Grenadines'
+  AddressCountry_186:
+    name: Samoa
+  AddressCountry_187:
+    name: 'San Marino'
+  AddressCountry_188:
+    name: 'Sao Tome and Principe'
+  AddressCountry_189:
+    name: 'Saudi Arabia'
+  AddressCountry_190:
+    name: Senegal
+  AddressCountry_191:
+    name: 'Serbia and Montenegro'
+  AddressCountry_192:
+    name: Seychelles
+  AddressCountry_193:
+    name: 'Sierra Leone'
+  AddressCountry_194:
+    name: Singapore
+  AddressCountry_195:
+    name: Slovakia
+  AddressCountry_196:
+    name: Slovenia
+  AddressCountry_197:
+    name: 'Solomon Islands'
+  AddressCountry_198:
+    name: Somalia
+  AddressCountry_199:
+    name: 'South Africa'
+  AddressCountry_200:
+    name: 'South Georgia and the South Sandwich Islands'
+  AddressCountry_201:
+    name: Spain
+  AddressCountry_202:
+    name: 'Sri Lanka'
+  AddressCountry_203:
+    name: Sudan
+  AddressCountry_204:
+    name: Suriname
+  AddressCountry_205:
+    name: 'Svalbard and Jan Mayen Islands'
+  AddressCountry_206:
+    name: Swaziland
+  AddressCountry_207:
+    name: Sweden
+  AddressCountry_208:
+    name: Switzerland
+  AddressCountry_209:
+    name: Syria
+  AddressCountry_210:
+    name: Taiwan
+  AddressCountry_211:
+    name: Tajikistan
+  AddressCountry_212:
+    name: Tanzania
+  AddressCountry_213:
+    name: Thailand
+  AddressCountry_214:
+    name: Togo
+  AddressCountry_215:
+    name: Tokelau
+  AddressCountry_216:
+    name: Tonga
+  AddressCountry_217:
+    name: 'Trinidad and Tobago'
+  AddressCountry_218:
+    name: Tunisia
+  AddressCountry_219:
+    name: Turkey
+  AddressCountry_220:
+    name: Turkmenistan
+  AddressCountry_221:
+    name: 'Turks and Caicos Islands'
+  AddressCountry_222:
+    name: Tuvalu
+  AddressCountry_223:
+    name: Uganda
+  AddressCountry_224:
+    name: Ukraine
+  AddressCountry_225:
+    name: 'United Arab Emirates'
+  AddressCountry_226:
+    name: 'United Kingdom'
+  AddressCountry_227:
+    name: 'United States of America'
+  AddressCountry_228:
+    name: Uruguay
+  AddressCountry_229:
+    name: Uzbekistan
+  AddressCountry_230:
+    name: Vanuatu
+  AddressCountry_231:
+    name: 'Vatican City'
+  AddressCountry_232:
+    name: Venezuela
+  AddressCountry_233:
+    name: Vietnam
+  AddressCountry_234:
+    name: 'Virgin Islands (British)'
+  AddressCountry_235:
+    name: 'Virgin Islands (US)'
+  AddressCountry_236:
+    name: 'Wallis and Futuna Islands'
+  AddressCountry_237:
+    name: 'Western Sahara'
+  AddressCountry_238:
+    name: Yemen
+  AddressCountry_239:
+    name: Zaire
+  AddressCountry_240:
+    name: Zambia
+  AddressCountry_241:
+    name: Zimbabwe
+ActType:
+  ActType_1:
+    designation: Subscription
+  ActType_2:
+    designation: 'Unitary Service'
+  ActType_3:
+    designation: 'Countable Service'
+  ActType_4:
+    designation: Purchase
+ComputerTypeOfConnexion:
+  ComputerTypeOfConnexion_1:
+    designation: Ethernet
+  ComputerTypeOfConnexion_2:
+    designation: Wi-fi
+  ComputerTypeOfConnexion_3:
+    designation: 3G
+UserGender:
+  UserGender_1:
+    designation: Male
+  UserGender_2:
+    designation: Female

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="fr" datatype="plaintext" original="messages" date="2010-06-17T13:27:36Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Welcome in the configuration procedure of GENEPI.</source>
+        <target>Bienvenue dans la procédure de configuration de GENEPI.</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>In order to proceed to the software configuration, you will need to know:</source>
+        <target>Afin de procéder à la configuration du logiciel, vous aurez besoin de connaître :</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>the IP address or the name and the port of your database server (MySQL or PostgreSQL)</source>
+        <target>l'adresse IP ou le nom et le port de votre serveur de base de données (MySQL ou PostgreSQL)</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>a login and a password that will be used by GENEPI to connect to the database server</source>
+        <target>un identifiant et un mot de passe qui seront utilisés par GENEPI pour se connecter au serveur de base de données</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>As long as the configuration is not achieved, these pages will remain available</source>
+        <target>Tant que la configuration n'est pas terminée, ces pages resteront disponibles</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Once the configuration achieved and all the tests checked, the homepage will appear automatically and the configuration pages will not be reachable anymore</source>
+        <target>Une fois la configuration terminée et tous les tests validés, la page d'accueil apparaîtra automatiquement et les pages de configuration ne seront plus accessibles</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>GENEPI configuration</source>
+        <target>Configuration de GENEPI</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Continue</source>
+        <target>Continuer</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Step 1:</source>
+        <target>Etape 1 :</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Database parameters</source>
+        <target>Paramètres de la base de données</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Server</source>
+        <target>Serveur</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Address</source>
+        <target>Adresse</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Port</source>
+        <target>Port</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>If the database server is on the same server than the application, type "localhost" or "127.0.0.1"</source>
+        <target>Si le serveur de base de données est sur le même serveur que l'application, entrez "localhost" ou "127.0.0.1"</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Default ports: 3306 for MySQL and 5432 for PostgreSQL</source>
+        <target>Ports par défaut : 3306 pour MySQL et 5432 pour PostgreSQL</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>DBMS</source>
+        <target>SGBD</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Database</source>
+        <target>Base de données</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Database name</source>
+        <target>Nom de la base</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Username</source>
+        <target>Nom d'utilisateur</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Password</source>
+        <target>Mot de passe</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>The default name of the database is GENEPI</source>
+        <target>Le nom par défaut de la base de données est GENEPI</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>It is recommanded to use a login and a password dedicated to GENEPI</source>
+        <target>Il est recommandé d'utiliser un identifiant et un mot de passe dédié à GENEPI</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Step 2:</source>
+        <target>Etape 2 :</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Creation of a new user</source>
+        <target>Création d'un nouvel utilisateur</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Surname</source>
+        <target>Nom</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Name</source>
+        <target>Prénom</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Email</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Login</source>
+        <target>Identifiant</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Confirm</source>
+        <target>Confirmer</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Confirm</source>
+        <target>Confirmer</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>This login already exists, please choose another.</source>
+        <target>Cet identifiant existe déjà, choisissez-en un autre s'il vous plaît</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Caution: once you choose a login, you won't be able to edit it.</source>
+        <target>Attention: une fois choisi, vous ne pourrez pas modifier l'identifiant.</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Please enter your password twice.</source>
+        <target>Merci d'entrer deux fois le mot de passe.</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>This email address is invalid.</source>
+        <target>Cette adresse e-mail est invalide.</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>The password length must exceed %min_length% characters.</source>
+        <target>La longueur du mot de passe doit dépasser %min_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>The password length must not exceed %max_length% characters.</source>
+        <target>La longueur du mot de passe ne doit pas dépasser %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>The password must be the same in the two fields.</source>
+        <target>Les deux mots de passe doivent être identiques.</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Required.</source>
+        <target>Obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Save and achieve configuration</source>
+        <target>Sauvegarder et terminer la configuration</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Configuration</source>
+        <target>Configuration</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Choose your language</source>
+        <target>Choisissez votre langue</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Structure parameters</source>
+        <target>Paramètres de la structure</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Structure name</source>
+        <target>Nom de la structure</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Step 3:</source>
+        <target>Etape 3 :</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

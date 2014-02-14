@@ -1,0 +1,4409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="fr" datatype="plaintext" original="messages" date="2013-12-16T11:25:09Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Name</source>
+        <target>Prénom</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Surname</source>
+        <target>Nom</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Birthdate</source>
+        <target>Date de naissance</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>E-mail</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Cellphone number</source>
+        <target>Tél. portable</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Comment</source>
+        <target>Informations complémentaires</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Gender</source>
+        <target>Sexe</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>SEG</source>
+        <target>CSP</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Address</source>
+        <target>Adresse</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Awareness Way</source>
+        <target>Moyen de connaissance</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Login</source>
+        <target>Identifiant</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Disabled</source>
+        <target>Désactivé</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Socio-economic group</source>
+        <target>Catégorie socio-professionelle</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>EPI Awareness</source>
+        <target>Moyen de connaissance de l'EPI</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Number</source>
+        <target>Numéro</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Street</source>
+        <target>Rue</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Telephone number</source>
+        <target>Tél. fixe</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Country</source>
+        <target>Pays</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Postal Code - City</source>
+        <target>Code Postal / Ville</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Users list</source>
+        <target>Liste des utilisateurs</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>New User</source>
+        <target>Nouvel Utilisateur</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>New</source>
+        <target>Nouveau</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Back to list</source>
+        <target>Retour à la liste</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Save</source>
+        <target>Sauvegarder</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Male</source>
+        <target>Homme</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Female</source>
+        <target>Femme</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>m-d-Y</source>
+        <target>d-m-Y</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>This email address is invalid.</source>
+        <target>Cette adresse email est invalide.</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>The name field is compulsory.</source>
+        <target>Le champ prénom est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>The surname field is compulsory.</source>
+        <target>Le champ nom est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>The birthdate field is compulsory.</source>
+        <target>Le champ date de naissance est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>The name field must not exceed %max_length% characters.</source>
+        <target>Le champ prénom ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>The surname field must not exceed %max_length% characters.</source>
+        <target>Le champ nom ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>This birthdate is invalid.</source>
+        <target>Cette date de naissance est invalide.</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Further information</source>
+        <target>Informations complémentaires</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Awareness</source>
+        <target>Moyen de connaissance</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Street, place, avenue</source>
+        <target>Rue, place, avenue</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Country</source>
+        <target>Pays</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Postal code</source>
+        <target>Code postal</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>City</source>
+        <target>Ville</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Enter a postal code or a city name</source>
+        <target>Entrez un code postal ou le nom d'une ville</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Edit User</source>
+        <target>Modification d'un Utilisateur</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>None</source>
+        <target>Aucun(e)</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>other</source>
+        <target>autre</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Type a new socio-economic group</source>
+        <target>Entrez une nouvelle CSP</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Type a new way of awareness</source>
+        <target>Entrez un nouveau moyen de connaissance</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Add</source>
+        <target>Ajouter</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>The user has been added.</source>
+        <target>L'utilisateur a été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>and</source>
+        <target>et</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Required field(s) are missing or some field(s) are incorrect.</source>
+        <target>Des champs obligatoires manquent ou certains champs sont incorrects.</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>The user has been deleted.</source>
+        <target>L'utilisateur a été supprimé.</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Functionalities</source>
+        <target>Fonctionnalités</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Add an user</source>
+        <target>Ajouter un utilisateur</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>List the users</source>
+        <target>Lister les utilisateurs</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>The application cannot be launched because of theses issues:</source>
+        <target>L'application n'a pas pu être lancée à cause des problèmes suivants:</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Please correct theses errors relatives to the configuration files :</source>
+        <target>Merci de corriger ces erreurs concernant des fichiers de configuration:</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Users</source>
+        <target>Utilisateurs</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Install a plugin</source>
+        <target>Installer un plugin</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Select the plugin name:</source>
+        <target>Sélectionner le nom du plugin:</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Remove a plugin</source>
+        <target>Supprimer un plugin</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Select the plugin name:</source>
+        <target>Sélectionner le nom du plugin:</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Dependencies Table</source>
+        <target>Table des Dépendances</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Module Name</source>
+        <target>Nom du Module</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Dependencies</source>
+        <target>Dépendances</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Activated Modules Table</source>
+        <target>Table des Modules Activés</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Is Compulsory</source>
+        <target>Est Obligatoire</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Menu Entry Name</source>
+        <target>Nom de l'entrée Menu</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>yes</source>
+        <target>oui</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>no</source>
+        <target>non</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Back</source>
+        <target>Retour</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Enter the plugin menu entry label:</source>
+        <target>Entrer le libellé de l'entrée menu du plugin:</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Show Configuration</source>
+        <target>Voir la configuration</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>Re-init the application</source>
+        <target>Redémarrer</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>Back to homepage</source>
+        <target>Retour à l'accueil</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>No additional plugins activated</source>
+        <target>Pas de plugins supplémentaire activé</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>The plugin</source>
+        <target>Le plugin</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>has been correctly added</source>
+        <target>a été correctement ajouté</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>You have to re-init the application to take the change into account:</source>
+        <target>Vous devez redémarrer l'application pour prendre en compte les changements:</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>has been correctly removed.</source>
+        <target>a été correctement supprimé.</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Utilisations</source>
+        <target>Usages</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>Configuration Menu</source>
+        <target>Menu de Configuration</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>The plugin name must be the same of the directory you added under apps/mgmt/.</source>
+        <target>Le nom du plugin doit être le même que le dossier que vous avez ajouté sous apps/mgmt/.</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Leave empty if the plugin must not have a menu entry.</source>
+        <target>Laisser vide si le plugin ne doit pas avoir d'entrée menu.</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Dependency satisfied</source>
+        <target>Dépendance satisfaite</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Dependency not satisfied</source>
+        <target>Dépendance non satisfaite</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Disconnect</source>
+        <target>Se déconnecter</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Configuration</source>
+        <target>Configuration</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>About</source>
+        <target>A propos de</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>is already installed</source>
+        <target>est déjà installé</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>This module is not activated.</source>
+        <target>Ce module n'est pas activé.</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Please correct the dependencies to enable this module.</source>
+        <target>Merci de corriger les dépendances avant de pouvoir utiliser ce module.</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>Some modules are not activated because dependencies are missing. Please go to the configuration &gt; plugin menu to correct theses issues.</source>
+        <target>Certains modules ne sont pas activés car des dépendances sont manquantes. Pour corriger ces problèmes, rendez vous dans le menu de configuration &gt; plugins.</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Uninstall this module</source>
+        <target>Désinstaller ce module</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>has been correctly uninstalled.</source>
+        <target>a été correctement désinstallé.</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>You can also:</source>
+        <target>Vous pouvez aussi:</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Caution</source>
+        <target>Attention</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>You are in the plugin configuration menu.</source>
+        <target>Vous êtes dans le menu de configuration des plugins.</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Changes can alter operation of the software.</source>
+        <target>Des modifications peuvent altérer le fonctionnement du logiciel.</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Restart is necessary</source>
+        <target>Un redémarrage est nécessaire</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Manage acts</source>
+        <target>Gérer les actes</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Manage administrators</source>
+        <target>Gérer les animateurs</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Manage structure</source>
+        <target>Gérer la structure</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Manage parameters</source>
+        <target>Gérer les paramètres</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>Manage plugins</source>
+        <target>Gérer les plugins</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>Export state</source>
+        <target>Exporter l'état</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Structure</source>
+        <target>Structure</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Buildings</source>
+        <target>Bâtiments</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>Rooms</source>
+        <target>Salles</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Computers</source>
+        <target>Ordinateurs</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Financiers</source>
+        <target>Financeurs</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Edit structure</source>
+        <target>Modification de la structure</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>Edit</source>
+        <target>Modifier</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>SIRET/INSEE number</source>
+        <target>Numéro SIRET/INSEE</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Structure</source>
+        <target>Structure</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Export logs</source>
+        <target>Exporter les logs</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>System</source>
+        <target>Système</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>Lists</source>
+        <target>Listes</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Default values</source>
+        <target>Valeurs par défaut</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Server</source>
+        <target>Serveur</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>IP address</source>
+        <target>Adresse IP</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Port</source>
+        <target>Port</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Database</source>
+        <target>Base de données</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>DBMS</source>
+        <target>SGBD</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Name</source>
+        <target>Nom</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>Username</source>
+        <target>Nom d'utilisateur</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>Password :</source>
+        <target>Mot de passe :</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>Caution, the new logo will erase the current one. It will be resized in height.</source>
+        <target>Attention, le nouveau logo remplacera le logo actuel. Il sera redimensionné en hauteur.</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>No logo</source>
+        <target>Pas de logo</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>Current Logo</source>
+        <target>Logo actuel</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Logo path</source>
+        <target>Chemin du logo</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>The parameters values have been correctly updated</source>
+        <target>Les valeurs des paramètres ont été correctement mises à jour</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>Saved parameters</source>
+        <target>Paramètres sauvegardés</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Financiers List</source>
+        <target>Liste des financeurs</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>Delete</source>
+        <target>Supprimer</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>This action will delete the financier. Are you sure ?</source>
+        <target>Cette action supprimera le financeur. Etes-vous sûr ?</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>Edit Financier</source>
+        <target>Modification d'un financeur</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Authentification</source>
+        <target>Authentification</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Login :</source>
+        <target>Identifiant :</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Login or password incorrect. Please try again.</source>
+        <target>Identifiant ou mot de passe incorrect. Réessayez s'il vous plaît.</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>Connection</source>
+        <target>Connexion</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>New Financier</source>
+        <target>Nouveau Financeur</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>Invalid IP format</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>You have specified an IP address with an invalid format.</source>
+        <target>Vous avez entré une adresse IP au format invalide.</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Caution: once a new value is inserted in a list, you will not be able to edit it.</source>
+        <target>Attention: une fois une valeur insérée dans une liste, vous ne pourrez pas la modifier.</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>You can only add and delete entries.</source>
+        <target>Vous pouvez uniquement ajouter et supprimer des entrées.</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>Public categories</source>
+        <target>Catégories de public</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>The shortened designation field is compulsory.</source>
+        <target>Le champ désignation abrégée est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>Install/Remove</source>
+        <target>Installer/Supprimer</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Activated modules</source>
+        <target>Modules activés</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>Install</source>
+        <target>Installer</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Remove</source>
+        <target>Supprimer</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>Click to modify</source>
+        <target>Cliquer pour modifier</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>The comment field must not exceed %max_length% characters.</source>
+        <target>Le champ informations complémentaires ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Buildings List</source>
+        <target>Liste des bâtiments</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Shortened Name</source>
+        <target>Nom abrégé</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>Number of associated rooms</source>
+        <target>Nombre de salles associées</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>New building</source>
+        <target>Nouveau bâtiment</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>Designation</source>
+        <target>Désignation</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>Shortened designation</source>
+        <target>Désignation abrégée</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Same address than the structure</source>
+        <target>Même adresse que la structure</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Building</source>
+        <target>Bâtiment</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Number of computers</source>
+        <target>Nombre d'ordinateurs</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Rooms List</source>
+        <target>Liste des salles</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>New Room</source>
+        <target>Nouvelle salle</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Default room</source>
+        <target>Salle par défaut</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>If you check this box, the previous default room will be replaced.</source>
+        <target>Si vous cochez cette case, la salle par défaut précédente sera remplacée.</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>The designation field is compulsory.</source>
+        <target>Le champ désignation est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Desktop</source>
+        <target>PC de bureau</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>Laptop</source>
+        <target>PC portable</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Operating System</source>
+        <target>Système d'exploitation</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Machine Type</source>
+        <target>Type de machine</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>Room</source>
+        <target>Salle</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Computers List</source>
+        <target>Liste des ordinateurs</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>New computer</source>
+        <target>Nouvel ordinateur</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Shortened name</source>
+        <target>Nom abrégé</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>MAC Address</source>
+        <target>Adresse MAC</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>IP Address</source>
+        <target>Adresse IP</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Year</source>
+        <target>Année</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Type of connection</source>
+        <target>Type de connexion</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>"%value%" is not a year.</source>
+        <target>"%value%" n'est pas une année.</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>The shortened name field is compulsory.</source>
+        <target>Le champ nom abrégé est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Operating system</source>
+        <target>Système d'exploitation</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>Family</source>
+        <target>Famille</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>Edit Computer</source>
+        <target>Modification d'un ordinateur</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>Edit Room</source>
+        <target>Modification d'une salle</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>Required.</source>
+        <target>Ce champ est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>The type of connection field must not exceed %max_length% characters.</source>
+        <target>Le champ type de connexion ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>The type of connection field is compulsory.</source>
+        <target>Le champ type de connexion est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Building deletion</source>
+        <target>Suppression d'un bâtiment</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Caution, the following rooms won't be associated to any building :</source>
+        <target>Attention, les salles suivantes ne seront plus associées à aucun bâtiment :</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Confirm</source>
+        <target>Confirmer</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Edit Building</source>
+        <target>Modification d'un bâtiment</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Caution, this action will delete completely the building.</source>
+        <target>Attention, cette action entraînera la suppression complète du bâtiment.</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Room deletion</source>
+        <target>Suppression d'une salle</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>Caution, this action will delete completely the room.</source>
+        <target>Attention, cette action entraînera la suppression complète de la salle.</target>
+      </trans-unit>
+      <trans-unit id="196">
+        <source>Caution, the following computers won't be associated to any room :</source>
+        <target>Attention, les ordinateurs suivants ne seront plus associés à aucune salle :</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Password</source>
+        <target>Mot de passe</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>The structure has been updated.</source>
+        <target>La structure a été mise à jour.</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>Theses entries are going to be removed</source>
+        <target>Ces entrées vont être supprimées</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Will be removed</source>
+        <target>Sera supprimée</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>Shortened name</source>
+        <target>Nom abrégé</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Unique identifier of the network interface.</source>
+        <target>Identifiant unique de la carte réseau.</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>To learn more, click </source>
+        <target>Pour en savoir plus, cliquer </target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>Impossible authentification. Check the connection to the database.</source>
+        <target>Authentification impossible. Vérifiez la connexion à la base de données.</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>No associated room</source>
+        <target>Pas de salle associée</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>No associated building</source>
+        <target>Pas de bâtiment associé</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>The building has been added.</source>
+        <target>Le bâtiment a été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>The room has been added.</source>
+        <target>La salle a été ajoutée.</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>The computer has been added.</source>
+        <target>L'ordinateur a été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>The building has been deleted.</source>
+        <target>Le bâtiment a été supprimé.</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>The room has been deleted.</source>
+        <target>La salle a été supprimée.</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>The computer has been deleted.</source>
+        <target>L'ordinateur a été supprimé.</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>No Logo</source>
+        <target>Pas de logo</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Order</source>
+        <target>Ordre</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Ok</source>
+        <target>Ok</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>Caution: Click on 'Ok' will update all the tables of this page</source>
+        <target>Attention: Cliquer sur 'Ok' va mettre à jour toutes les tables de cette page</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>here</source>
+        <target>ici</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>Log export</source>
+        <target>Exportation des logs</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>Browser</source>
+        <target>Navigateur</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>JavaScript support</source>
+        <target>Support du JavaScript</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>enabled</source>
+        <target>activé</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>disabled</source>
+        <target>desactivé</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Screen resolution</source>
+        <target>Résolution d'écran</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>More</source>
+        <target>Plus</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Hide</source>
+        <target>Cacher</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>State</source>
+        <target>Etat</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Export to a text format</source>
+        <target>Exporter au format texte</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>The name field must not exceed %max_length% characters.</source>
+        <target>Le champ nom ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>The shortened name field must not exceed %max_length% characters.</source>
+        <target>Le champ nom abrégé ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>The telephone number field must not exceed %max_length% characters.</source>
+        <target>Le champ numéro de téléphone fixe ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>The street, place, avenue field must not exceed %max_length% characters.</source>
+        <target>Le champ rue, place, avenue ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>No OS</source>
+        <target>Pas de système d'exploitation</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>The IP address field must not exceed %max_length% characters.</source>
+        <target>Le champ adresse IP ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>The MAC address field must not exceed %max_length% characters.</source>
+        <target>Le champ adresse MAC ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>Invalid picture format.</source>
+        <target>Format d'image invalide.</target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>The website field must not exceed %max_length% characters.</source>
+        <target>Le champ site web ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Website</source>
+        <target>Site web</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>The siret number field must not exceed %max_length% characters.</source>
+        <target>Le champ numéro siret ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>The financier has been added.</source>
+        <target>Le financeur a été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="239">
+        <source>The financier has been deleted.</source>
+        <target>Le financeur a été supprimé.</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>List of predefined acts</source>
+        <target>Liste des actes prédéfinis</target>
+      </trans-unit>
+      <trans-unit id="241">
+        <source>All</source>
+        <target>Tous</target>
+      </trans-unit>
+      <trans-unit id="242">
+        <source>Subscriptions</source>
+        <target>Abonnements</target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Purchases</source>
+        <target>Achats</target>
+      </trans-unit>
+      <trans-unit id="244">
+        <source>Unitary services</source>
+        <target>Services unitaires</target>
+      </trans-unit>
+      <trans-unit id="245">
+        <source>Multiple services</source>
+        <target>Services multiples</target>
+      </trans-unit>
+      <trans-unit id="246">
+        <source>Act type</source>
+        <target>Type d'acte</target>
+      </trans-unit>
+      <trans-unit id="247">
+        <source>Subscription</source>
+        <target>Abonnement</target>
+      </trans-unit>
+      <trans-unit id="248">
+        <source>Purchase</source>
+        <target>Achat</target>
+      </trans-unit>
+      <trans-unit id="249">
+        <source>Unitary service</source>
+        <target>Service unitaire</target>
+      </trans-unit>
+      <trans-unit id="250">
+        <source>Multiple service</source>
+        <target>Service multiple</target>
+      </trans-unit>
+      <trans-unit id="251">
+        <source>List of predefined purchases</source>
+        <target>Liste des achats prédéfinis</target>
+      </trans-unit>
+      <trans-unit id="252">
+        <source>List of predefined subscriptions</source>
+        <target>Liste des abonnements prédéfinis</target>
+      </trans-unit>
+      <trans-unit id="253">
+        <source>List of predefined unitary services</source>
+        <target>Liste des services unitaires prédéfinis</target>
+      </trans-unit>
+      <trans-unit id="254">
+        <source>List of predefined multiple services</source>
+        <target>Liste des services multiples prédéfinis</target>
+      </trans-unit>
+      <trans-unit id="255">
+        <source>Duration</source>
+        <target>Durée</target>
+      </trans-unit>
+      <trans-unit id="256">
+        <source>Quantity</source>
+        <target>Quantité</target>
+      </trans-unit>
+      <trans-unit id="257">
+        <source>New purchase</source>
+        <target>Nouvel achat</target>
+      </trans-unit>
+      <trans-unit id="258">
+        <source>The purchase has been added.</source>
+        <target>L'achat a été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source>The purchase has been updated.</source>
+        <target>L'achat a été mis à jour.</target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source>The purchase has been deleted.</source>
+        <target>L'achat a été supprimé.</target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source>Predefined purchase deletion</source>
+        <target>Suppression d'un achat prédéfini</target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source>Caution, this act will be deleted and won't be imputable anymore.</source>
+        <target>Attention, cet acte sera supprimé et ne sera plus imputable.</target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source>Top</source>
+        <target>Haut</target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source>Caution: Click on 'Ok' will only update this table</source>
+        <target>Attention: Cliquer sur 'Ok' ne mettra à jour que cette table</target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source>Default Parameters Setting</source>
+        <target>Réglage des Paramètres par Défaut</target>
+      </trans-unit>
+      <trans-unit id="266">
+        <source>Imputations</source>
+        <target>Imputations</target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source>Theses parameters will be the ones selected by default during an imputation.</source>
+        <target>Ces paramètres seront ceux sélectionnés par défaut lors d'une imputation.</target>
+      </trans-unit>
+      <trans-unit id="268">
+        <source>Operation</source>
+        <target>Fonctionnement</target>
+      </trans-unit>
+      <trans-unit id="269">
+        <source>Caution: Changing language will not translate the data in your database.</source>
+        <target>Attention: Changer la langue ne traduira pas les données de la base de données.</target>
+      </trans-unit>
+      <trans-unit id="270">
+        <source>The DBMS ports setting will not affect the operation of the application.</source>
+        <target>Le réglage des ports des SGBD n'affectera pas le fonctionnement de l'application.</target>
+      </trans-unit>
+      <trans-unit id="271">
+        <source>It will only help while debugging.</source>
+        <target>Cela servira uniquement à l'aide au deboguage</target>
+      </trans-unit>
+      <trans-unit id="272">
+        <source>Caution: once a new value is inserted in a list, you will not be able to edit its designation.</source>
+        <target>Attention: une fois insérée dans une liste, vous ne pourrez pas modifier la désignation de l'entrée.</target>
+      </trans-unit>
+      <trans-unit id="273">
+        <source>You can only edit its order, its short designation and add and delete entries.</source>
+        <target>Vous pouvez uniquement modifier l'ordre, la désignation abrégée et ajouter/supprimer des entrées.</target>
+      </trans-unit>
+      <trans-unit id="274">
+        <source>Database Parameters</source>
+        <target>Paramètres de la Base de données</target>
+      </trans-unit>
+      <trans-unit id="275">
+        <source>System Informations</source>
+        <target>Informations Système</target>
+      </trans-unit>
+      <trans-unit id="276">
+        <source>Signature</source>
+        <target>Signature</target>
+      </trans-unit>
+      <trans-unit id="277">
+        <source>Client</source>
+        <target>Client</target>
+      </trans-unit>
+      <trans-unit id="278">
+        <source>JavaScript</source>
+        <target>JavaScript</target>
+      </trans-unit>
+      <trans-unit id="279">
+        <source>Update successful</source>
+        <target>Mise à jour réussie</target>
+      </trans-unit>
+      <trans-unit id="280">
+        <source>The default parameters values have been correctly updated</source>
+        <target>Les paramètres par défaut ont été correctement mis à jour</target>
+      </trans-unit>
+      <trans-unit id="281">
+        <source>Plugins</source>
+        <target>Plugins</target>
+      </trans-unit>
+      <trans-unit id="347">
+        <source>To add a new unity, go to the "Manage parameters" menu.</source>
+        <target>Pour ajouter une nouvelle unité, aller dans le menu "Gérer les paramètres".</target>
+      </trans-unit>
+      <trans-unit id="282">
+        <source>Room</source>
+        <target>Salle</target>
+      </trans-unit>
+      <trans-unit id="283">
+        <source>Computer</source>
+        <target>Ordinateur</target>
+      </trans-unit>
+      <trans-unit id="284">
+        <source>Method of payment</source>
+        <target>Mode de paiement</target>
+      </trans-unit>
+      <trans-unit id="285">
+        <source>Language</source>
+        <target>Langue</target>
+      </trans-unit>
+      <trans-unit id="286">
+        <source>MySQL port</source>
+        <target>Port MySQL</target>
+      </trans-unit>
+      <trans-unit id="287">
+        <source>PostgreSQL port</source>
+        <target>Port PostgreSQL</target>
+      </trans-unit>
+      <trans-unit id="288">
+        <source>French</source>
+        <target>Français</target>
+      </trans-unit>
+      <trans-unit id="289">
+        <source>English</source>
+        <target>Anglais</target>
+      </trans-unit>
+      <trans-unit id="290">
+        <source>Public Categories</source>
+        <target>Catégories de Public</target>
+      </trans-unit>
+      <trans-unit id="291">
+        <source>Unities</source>
+        <target>Unités</target>
+      </trans-unit>
+      <trans-unit id="292">
+        <source>Awareness Ways</source>
+        <target>Moyens de connaissance</target>
+      </trans-unit>
+      <trans-unit id="293">
+        <source>Socio-economic Groups</source>
+        <target>Catégories socio-professionnelles</target>
+      </trans-unit>
+      <trans-unit id="294">
+        <source>Operating Systems</source>
+        <target>Systèmes d'Exploitation</target>
+      </trans-unit>
+      <trans-unit id="295">
+        <source>Operating System Families</source>
+        <target>Familles de Systèmes d'Exploitation</target>
+      </trans-unit>
+      <trans-unit id="296">
+        <source>Currency</source>
+        <target>Devise</target>
+      </trans-unit>
+      <trans-unit id="297">
+        <source>Period of validity</source>
+        <target>Période de validité</target>
+      </trans-unit>
+      <trans-unit id="298">
+        <source>Max. number of members</source>
+        <target>Nombre max. de membres</target>
+      </trans-unit>
+      <trans-unit id="299">
+        <source>Extra cost per member</source>
+        <target>Coût par membre supplémentaire</target>
+      </trans-unit>
+      <trans-unit id="300">
+        <source>New subscription</source>
+        <target>Nouvel abonnement</target>
+      </trans-unit>
+      <trans-unit id="301">
+        <source>Predefined subscription deletion</source>
+        <target>Suppression d'un abonnement prédéfini</target>
+      </trans-unit>
+      <trans-unit id="302">
+        <source>The predefined purchase has been deleted.</source>
+        <target>L'achat prédéfini a été supprimé.</target>
+      </trans-unit>
+      <trans-unit id="303">
+        <source>The purchase has been added.</source>
+        <target>L'achat a été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="304">
+        <source>The predefined purchase has been updated.</source>
+        <target>L'achat prédéfini a été mis à jour.</target>
+      </trans-unit>
+      <trans-unit id="305">
+        <source>The predefined subscription has been deleted.</source>
+        <target>L'abonnement prédéfini a été supprimé.</target>
+      </trans-unit>
+      <trans-unit id="306">
+        <source>The subscription has been added.</source>
+        <target>L'abonnement a été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="307">
+        <source>The predefined subscription has been updated.</source>
+        <target>L'abonnement prédéfini a été mis à jour.</target>
+      </trans-unit>
+      <trans-unit id="308">
+        <source>hour(s)</source>
+        <target>heure(s)</target>
+      </trans-unit>
+      <trans-unit id="309">
+        <source>day(s)</source>
+        <target>jour(s)</target>
+      </trans-unit>
+      <trans-unit id="310">
+        <source>month(s)</source>
+        <target>mois</target>
+      </trans-unit>
+      <trans-unit id="311">
+        <source>year(s)</source>
+        <target>année(s)</target>
+      </trans-unit>
+      <trans-unit id="312">
+        <source>Predefined unitary service deletion</source>
+        <target>Suppression d'un service unitaire prédéfini</target>
+      </trans-unit>
+      <trans-unit id="313">
+        <source>Predefined multiple service deletion</source>
+        <target>Suppression d'un service multiple prédéfini</target>
+      </trans-unit>
+      <trans-unit id="314">
+        <source>The unitary service has been added.</source>
+        <target>Le service unitaire a été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="315">
+        <source>The predefined unitary service has been updated.</source>
+        <target>Le service unitaire prédéfini a été mis à jour.</target>
+      </trans-unit>
+      <trans-unit id="316">
+        <source>The predefined unitary service has been deleted.</source>
+        <target>Le service unitaire prédéfini a été supprimé.</target>
+      </trans-unit>
+      <trans-unit id="317">
+        <source>The multiple service has been added.</source>
+        <target>Le service multiple a été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="318">
+        <source>The predefined multiple service has been updated.</source>
+        <target>Le service multiple prédéfini a été mis à jour.</target>
+      </trans-unit>
+      <trans-unit id="319">
+        <source>The predefined multiple service has been deleted.</source>
+        <target>Le service multiple prédéfini a été supprimé.</target>
+      </trans-unit>
+      <trans-unit id="320">
+        <source>Edit predefined purchase</source>
+        <target>Modification d'un achat prédéfini</target>
+      </trans-unit>
+      <trans-unit id="321">
+        <source>Edit predefined subscription</source>
+        <target>Modification d'un abonnement prédéfini</target>
+      </trans-unit>
+      <trans-unit id="322">
+        <source>Edit predefined unitary service</source>
+        <target>Modification d'un service unitaire</target>
+      </trans-unit>
+      <trans-unit id="323">
+        <source>Edit predefined multiple service</source>
+        <target>Modification d'un service multiple</target>
+      </trans-unit>
+      <trans-unit id="324">
+        <source>New unitary service</source>
+        <target>Nouveau service unitaire</target>
+      </trans-unit>
+      <trans-unit id="325">
+        <source>New multiple service</source>
+        <target>Nouveau service multiple</target>
+      </trans-unit>
+      <trans-unit id="326">
+        <source>Subscription</source>
+        <target>Abonnement</target>
+      </trans-unit>
+      <trans-unit id="327">
+        <source>Purchase</source>
+        <target>Achat</target>
+      </trans-unit>
+      <trans-unit id="328">
+        <source>Unitary service</source>
+        <target>Service unitaire</target>
+      </trans-unit>
+      <trans-unit id="329">
+        <source>Multiple service</source>
+        <target>Service multiple</target>
+      </trans-unit>
+      <trans-unit id="330">
+        <source>Beginning date and time</source>
+        <target>Date et heure de début</target>
+      </trans-unit>
+      <trans-unit id="331">
+        <source>End of the recurrence</source>
+        <target>Fin de la récurrence</target>
+      </trans-unit>
+      <trans-unit id="332">
+        <source>Recurrence</source>
+        <target>Récurrence</target>
+      </trans-unit>
+      <trans-unit id="333">
+        <source>Monday</source>
+        <target>Lundi</target>
+      </trans-unit>
+      <trans-unit id="334">
+        <source>Tuesday</source>
+        <target>Mardi</target>
+      </trans-unit>
+      <trans-unit id="335">
+        <source>Wednesday</source>
+        <target>Mercredi</target>
+      </trans-unit>
+      <trans-unit id="336">
+        <source>Thursday</source>
+        <target>Jeudi</target>
+      </trans-unit>
+      <trans-unit id="337">
+        <source>Friday</source>
+        <target>Vendredi</target>
+      </trans-unit>
+      <trans-unit id="338">
+        <source>Saturday</source>
+        <target>Samedi</target>
+      </trans-unit>
+      <trans-unit id="339">
+        <source>Sunday</source>
+        <target>Dimanche</target>
+      </trans-unit>
+      <trans-unit id="340">
+        <source>The duration must be a number.</source>
+        <target>La durée doit être un nombre.</target>
+      </trans-unit>
+      <trans-unit id="341">
+        <source>The duration must be positive.</source>
+        <target>La durée doit être positive.</target>
+      </trans-unit>
+      <trans-unit id="342">
+        <source>The extra cost must be positive.</source>
+        <target>Le coût par membre supplémentaire doit être positif.</target>
+      </trans-unit>
+      <trans-unit id="343">
+        <source>The extra cost must be a number.</source>
+        <target>Le coût par membre supplémentaire doit être un nombre.</target>
+      </trans-unit>
+      <trans-unit id="344">
+        <source>The max. number of members must be positive.</source>
+        <target>Le nombre max. de membres doit être positif.</target>
+      </trans-unit>
+      <trans-unit id="345">
+        <source>The max. number of members must be a number.</source>
+        <target>Le nombre max. de membres doit être un nombre.</target>
+      </trans-unit>
+      <trans-unit id="346">
+        <source>Initial quantity</source>
+        <target>Quantité initiale</target>
+      </trans-unit>
+      <trans-unit id="347">
+        <source>To add a new unity, go to the "Manage parameters" menu.</source>
+        <target>Pour ajouter une nouvelle unité, aller dans le menu "Gérer les paramètres".</target>
+      </trans-unit>
+      <trans-unit id="348">
+        <source>New predefined unitary service</source>
+        <target>Nouveau service unitaire prédéfini</target>
+      </trans-unit>
+      <trans-unit id="349">
+        <source>New predefined multiple service</source>
+        <target>Nouveau service multiple prédéfini</target>
+      </trans-unit>
+      <trans-unit id="350">
+        <source>New predefined subscription</source>
+        <target>Nouvel abonnement prédéfini</target>
+      </trans-unit>
+      <trans-unit id="351">
+        <source>New predefined purchase</source>
+        <target>Nouvel achat prédéfini</target>
+      </trans-unit>
+      <trans-unit id="352">
+        <source>Do you wish to confirm the creation of this act ?</source>
+        <target>Confirmez-vous la création de cet acte ?</target>
+      </trans-unit>
+      <trans-unit id="353">
+        <source>The fields name, shortened name and duration will not be editable.</source>
+        <target>Les champs nom, nom abrégé et durée ne seront plus modifiables.</target>
+      </trans-unit>
+      <trans-unit id="354">
+        <source>The fields name, shortened name and initial quantity will not be editable.</source>
+        <target>Les champs nom, nom abrégé et quantité initiale ne seront plus modifiables.</target>
+      </trans-unit>
+      <trans-unit id="355">
+        <source>The fields name and shortened name will not be editable.</source>
+        <target>Les champs nom et nom abrégé ne seront plus modifiables.</target>
+      </trans-unit>
+      <trans-unit id="356">
+        <source>The fields name, shortened name and period of validity will not be editable.</source>
+        <target>Les champs nom, nom abrégé et période de validité ne seront plus modifiables.</target>
+      </trans-unit>
+      <trans-unit id="357">
+        <source>Date this act</source>
+        <target>Dater cet acte</target>
+      </trans-unit>
+      <trans-unit id="358">
+        <source>Number of entries to display</source>
+        <target>Nombre d'entrées à afficher</target>
+      </trans-unit>
+      <trans-unit id="359">
+        <source>Set the default number of entries to display in a list (users, acts, ...).</source>
+        <target>Règle le nombre d'entrées à afficher par défaut dans une liste (utilisateurs, actes, ...).</target>
+      </trans-unit>
+      <trans-unit id="360">
+        <source>Telephone number n°2</source>
+        <target>Tél. n°2</target>
+      </trans-unit>
+      <trans-unit id="361">
+        <source>Manage prices</source>
+        <target>Gérer les prix</target>
+      </trans-unit>
+      <trans-unit id="362">
+        <source>Methods of Payment</source>
+        <target>Modes de Paiement</target>
+      </trans-unit>
+      <trans-unit id="363">
+        <source>Hide compulsory modules</source>
+        <target>Cacher les modules obligatoires</target>
+      </trans-unit>
+      <trans-unit id="364">
+        <source>Login and password are correct but your account is locked.</source>
+        <target>Identifiant et mot de passe corrects mais votre compte est verrouillé.</target>
+      </trans-unit>
+      <trans-unit id="365">
+        <source>You tried to access to a fordidden page.</source>
+        <target>Vous avez tenté d'accéder à une page qui vous est interdite.</target>
+      </trans-unit>
+      <trans-unit id="366">
+        <source>Prices management</source>
+        <target>Gestion des prix</target>
+      </trans-unit>
+      <trans-unit id="367">
+        <source>Help</source>
+        <target>Aide</target>
+      </trans-unit>
+      <trans-unit id="368">
+        <source>A blank cell indicates that no price is fixed yet for this act and this public category.</source>
+        <target>Une cellule vide indique qu'aucun prix n'est fixé pour cet acte et cette catégorie de public.</target>
+      </trans-unit>
+      <trans-unit id="369">
+        <source>Click on a cell to insert a new price.</source>
+        <target>Cliquez sur une cellule pour insérer un nouveau prix.</target>
+      </trans-unit>
+      <trans-unit id="370">
+        <source>"0" indicates that the act is free for the public category.</source>
+        <target>"0" indique que l'acte est gratuit pour la catégorie de public concernée.</target>
+      </trans-unit>
+      <trans-unit id="371">
+        <source>The max. number of members must be an integer.</source>
+        <target>Le nombre max. de membres doit être un nombre entier.</target>
+      </trans-unit>
+      <trans-unit id="372">
+        <source>All the prices are in </source>
+        <target>Tous les prix sont en </target>
+      </trans-unit>
+      <trans-unit id="373">
+        <source>Once you have finished, click on "Confirm".</source>
+        <target>Une fois que vous avez fini, cliquer sur "Confirmer".</target>
+      </trans-unit>
+      <trans-unit id="374">
+        <source>You made a mistake on one or several price(s). If you have any problem, click on the Help button.</source>
+        <target>Vous avez fait une erreur sur un ou plusieurs prix. Si vous rencontrez des problèmes, cliquez sur le bouton Aide.</target>
+      </trans-unit>
+      <trans-unit id="375">
+        <source>The prices have been updated.</source>
+        <target>Les prix ont été mis à jour.</target>
+      </trans-unit>
+      <trans-unit id="376">
+        <source>Act</source>
+        <target>Acte</target>
+      </trans-unit>
+      <trans-unit id="377">
+        <source>The moderator has been updated.</source>
+        <target>Le modérateur a été mis à jour.</target>
+      </trans-unit>
+      <trans-unit id="378">
+        <source>Set whether the moderator actions must be memorized.</source>
+        <target>Règle si les actions de l'animateur doivent être mémorisées.</target>
+      </trans-unit>
+      <trans-unit id="379">
+        <source>Follow moderator actions</source>
+        <target>Suivre les actions de l'animateur</target>
+      </trans-unit>
+      <trans-unit id="380">
+        <source>However, the imputations of this act will be still stored.</source>
+        <target>Cependant, les imputations de cet acte seront conservées en mémoire.</target>
+      </trans-unit>
+      <trans-unit id="381">
+        <source>Manage moderators</source>
+        <target>Gérer les modérateurs</target>
+      </trans-unit>
+      <trans-unit id="382">
+        <source>The list has been updated</source>
+        <target>La liste a été mise à jour</target>
+      </trans-unit>
+      <trans-unit id="383">
+        <source>Edit Moderator</source>
+        <target>Modification d'un modérateur</target>
+      </trans-unit>
+      <trans-unit id="384">
+        <source>Moderators List</source>
+        <target>Liste des modérateurs</target>
+      </trans-unit>
+      <trans-unit id="385">
+        <source>Animators</source>
+        <target>Animateurs</target>
+      </trans-unit>
+      <trans-unit id="386">
+        <source>Viewers</source>
+        <target>Visualiseurs</target>
+      </trans-unit>
+      <trans-unit id="387">
+        <source>Password change</source>
+        <target>Changement du mot de passe</target>
+      </trans-unit>
+      <trans-unit id="388">
+        <source>Change password</source>
+        <target>Changer le mot de passe</target>
+      </trans-unit>
+      <trans-unit id="389">
+        <source>Cancel change</source>
+        <target>Annuler le changement</target>
+      </trans-unit>
+      <trans-unit id="390">
+        <source>Viewer only</source>
+        <target>Visualiseur seulement</target>
+      </trans-unit>
+      <trans-unit id="391">
+        <source>Former</source>
+        <target>Ancien</target>
+      </trans-unit>
+      <trans-unit id="392">
+        <source>New</source>
+        <target>Nouveau</target>
+      </trans-unit>
+      <trans-unit id="393">
+        <source>New Moderator</source>
+        <target>Nouveau Modérateur</target>
+      </trans-unit>
+      <trans-unit id="394">
+        <source>Unitary Service</source>
+        <target>Service Unitaire</target>
+      </trans-unit>
+      <trans-unit id="395">
+        <source>Countable Service</source>
+        <target>Service Multiple</target>
+      </trans-unit>
+      <trans-unit id="396">
+        <source>The initial quantity field is compulsory.</source>
+        <target>Le champ quantité initiale est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="397">
+        <source>The unity field is compulsory.</source>
+        <target>Le champ unité est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="398">
+        <source>Viewer</source>
+        <target>Visualiseur</target>
+      </trans-unit>
+      <trans-unit id="399">
+        <source>Animator</source>
+        <target>Animateur</target>
+      </trans-unit>
+      <trans-unit id="400">
+        <source>You are about to add a moderator of type: </source>
+        <target>Vous êtes sur le point de créer un modérateur du type: </target>
+      </trans-unit>
+      <trans-unit id="401">
+        <source>Is an animator</source>
+        <target>Est un animateur</target>
+      </trans-unit>
+      <trans-unit id="402">
+        <source>Moderator deletion</source>
+        <target>Suppression d'un modérateur</target>
+      </trans-unit>
+      <trans-unit id="403">
+        <source>Caution, this action will delete the moderator.</source>
+        <target>Attention, cette action va supprimer le modérateur.</target>
+      </trans-unit>
+      <trans-unit id="404">
+        <source>The moderator has been added.</source>
+        <target>Le modérateur a été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="405">
+        <source>The moderator has been removed.</source>
+        <target>Le modérateur a été supprimé.</target>
+      </trans-unit>
+      <trans-unit id="406">
+        <source>The password length must exceed %min_length% characters.</source>
+        <target>La longueur du mot de passe doit dépasser %min_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="407">
+        <source>The password length must not exceed %max_length% characters.</source>
+        <target>La longueur du mot de passe ne doit pas dépasser %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="408">
+        <source>The password must be the same in the two fields.</source>
+        <target>Les deux mots de passe doivent être identiques.</target>
+      </trans-unit>
+      <trans-unit id="409">
+        <source>Caution: once you choose a login, you won't be able to edit it.</source>
+        <target>Attention: une fois choisi, vous ne pourrez pas modifier l'identifiant.</target>
+      </trans-unit>
+      <trans-unit id="410">
+        <source>The login modification is not available.</source>
+        <target>La modification de l'identifiant n'est pas permise.</target>
+      </trans-unit>
+      <trans-unit id="411">
+        <source>Please enter your password twice.</source>
+        <target>Merci d'entrer deux fois le mot de passe.</target>
+      </trans-unit>
+      <trans-unit id="412">
+        <source>The password must be the same in the two fields.</source>
+        <target>Le mot de passe doit être le même dans les deux champs.</target>
+      </trans-unit>
+      <trans-unit id="413">
+        <source>You have specified an invalid former password.</source>
+        <target>L'ancien mot de passe est incorrect.</target>
+      </trans-unit>
+      <trans-unit id="414">
+        <source>The entry id has not been specified.</source>
+        <target>L'identifiant de l'entrée n'a pas été spécifié.</target>
+      </trans-unit>
+      <trans-unit id="415">
+        <source>Animators List</source>
+        <target>Liste des Animateurs</target>
+      </trans-unit>
+      <trans-unit id="416">
+        <source>Viewers List</source>
+        <target>Liste des Visualiseurs</target>
+      </trans-unit>
+      <trans-unit id="417">
+        <source>User info</source>
+        <target>Informations sur un utilisateur</target>
+      </trans-unit>
+      <trans-unit id="418">
+        <source>Born on</source>
+        <target>Né(e) le</target>
+      </trans-unit>
+      <trans-unit id="419">
+        <source>Organization</source>
+        <target>Organisation</target>
+      </trans-unit>
+      <trans-unit id="420">
+        <source>Cellphone</source>
+        <target>Tél. portable</target>
+      </trans-unit>
+      <trans-unit id="421">
+        <source>Category</source>
+        <target>Catégorie</target>
+      </trans-unit>
+      <trans-unit id="422">
+        <source>Alter</source>
+        <target>Modifier</target>
+      </trans-unit>
+      <trans-unit id="423">
+        <source>Impute an act</source>
+        <target>Imputer un acte</target>
+      </trans-unit>
+      <trans-unit id="424">
+        <source>Subscribers</source>
+        <target>Abonnés</target>
+      </trans-unit>
+      <trans-unit id="425">
+        <source>Non-subscribers</source>
+        <target>Non-abonnés</target>
+      </trans-unit>
+      <trans-unit id="426">
+        <source>Accounts list</source>
+        <target>Liste des comptes</target>
+      </trans-unit>
+      <trans-unit id="427">
+        <source>Subscriptions list</source>
+        <target>Liste des abonnements</target>
+      </trans-unit>
+      <trans-unit id="428">
+        <source>left</source>
+        <target>restant(es)</target>
+      </trans-unit>
+      <trans-unit id="429">
+        <source>expires on</source>
+        <target>expire le</target>
+      </trans-unit>
+      <trans-unit id="430">
+        <source>Email</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit id="431">
+        <source>Telephone</source>
+        <target>Téléphone</target>
+      </trans-unit>
+      <trans-unit id="432">
+        <source>User deletion</source>
+        <target>Suppression d'un utilisateur</target>
+      </trans-unit>
+      <trans-unit id="433">
+        <source>Caution, this user and all his personnal data will be deleted.</source>
+        <target>Attention, cet utilisateur ainsi que toutes ses données personnelles seront supprimées.</target>
+      </trans-unit>
+      <trans-unit id="434">
+        <source>His acts will be anonymized but kept in memory.</source>
+        <target>Ses actes seront anonymisés mais gardés en mémoire.</target>
+      </trans-unit>
+      <trans-unit id="435">
+        <source>Users List</source>
+        <target>Liste des utilisateurs</target>
+      </trans-unit>
+      <trans-unit id="436">
+        <source>Use</source>
+        <target>Usage</target>
+      </trans-unit>
+      <trans-unit id="437">
+        <source>Age</source>
+        <target>Age</target>
+      </trans-unit>
+      <trans-unit id="438">
+        <source>Public categorie</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="439">
+        <source>this subscription will be outdated in</source>
+        <target>cet abonnement sera périmé dans</target>
+      </trans-unit>
+      <trans-unit id="440">
+        <source>Subscription finished today</source>
+        <target>Abonnement terminé aujourd'hui</target>
+      </trans-unit>
+      <trans-unit id="441">
+        <source>subscription outdated since</source>
+        <target>abonnement périmé depuis</target>
+      </trans-unit>
+      <trans-unit id="442">
+        <source>Anonymize</source>
+        <target>Anonymiser</target>
+      </trans-unit>
+      <trans-unit id="443">
+        <source>Anonymize all the uses that happened more than</source>
+        <target>Anonymiser tous les usages qui ont eu lieu il y a</target>
+      </trans-unit>
+      <trans-unit id="444">
+        <source>Once this action performed, there will not be a match between an use an an user anymore.</source>
+        <target>Une fois cette action effectuée, il n'y aura plus de correspondance entre un usage et un utilisateur.</target>
+      </trans-unit>
+      <trans-unit id="445">
+        <source>It will not affect the statistics, only the history.</source>
+        <target>Cela n'affectera pas les statistiques, seulement l'historique.</target>
+      </trans-unit>
+      <trans-unit id="446">
+        <source>three months ago</source>
+        <target>plus de trois mois</target>
+      </trans-unit>
+      <trans-unit id="447">
+        <source>six months ago</source>
+        <target>plus de six mois</target>
+      </trans-unit>
+      <trans-unit id="448">
+        <source>one year ago</source>
+        <target>plus d'un an</target>
+      </trans-unit>
+      <trans-unit id="449">
+        <source>two years ago</source>
+        <target>plus de deux ans</target>
+      </trans-unit>
+      <trans-unit id="450">
+        <source>Caution, this action is irreversible.</source>
+        <target>Attention, cette action est irréversible.</target>
+      </trans-unit>
+      <trans-unit id="451">
+        <source>All the imputations realized more than</source>
+        <target>Toutes les imputations réalisées il y a</target>
+      </trans-unit>
+      <trans-unit id="452">
+        <source>will be anonymized.</source>
+        <target>seront anonymisées.</target>
+      </trans-unit>
+      <trans-unit id="453">
+        <source>Uses anonymization</source>
+        <target>Anonymisation des usages</target>
+      </trans-unit>
+      <trans-unit id="454">
+        <source>Module Description</source>
+        <target>Description du module</target>
+      </trans-unit>
+      <trans-unit id="455">
+        <source>Organization name</source>
+        <target>Nom de l'organisation</target>
+      </trans-unit>
+      <trans-unit id="456">
+        <source>The user has been added.</source>
+        <target>L'utilisateur a été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="457">
+        <source>The user has been deleted.</source>
+        <target>L'utilisateur a été supprimé.</target>
+      </trans-unit>
+      <trans-unit id="458">
+        <source>The building has been updated.</source>
+        <target>Le bâtiment a été mis à jour.</target>
+      </trans-unit>
+      <trans-unit id="459">
+        <source>The room has been updated.</source>
+        <target>La salle a été mise à jour.</target>
+      </trans-unit>
+      <trans-unit id="460">
+        <source>The computer has been updated.</source>
+        <target>L'ordinateur a été mis à jour.</target>
+      </trans-unit>
+      <trans-unit id="461">
+        <source>The user has been updated.</source>
+        <target>L'utilisateur a été mis à jour.</target>
+      </trans-unit>
+      <trans-unit id="462">
+        <source>Dashboard</source>
+        <target>Tableau de bord</target>
+      </trans-unit>
+      <trans-unit id="463">
+        <source>Subscribers list</source>
+        <target>Liste des abonnés</target>
+      </trans-unit>
+      <trans-unit id="464">
+        <source>Non-subscribers list</source>
+        <target>Liste des non-abonnés</target>
+      </trans-unit>
+      <trans-unit id="465">
+        <source>Totality of the account consumed</source>
+        <target>Compte consommé en totalité</target>
+      </trans-unit>
+      <trans-unit id="466">
+        <source>Negative account</source>
+        <target>Compte négatif</target>
+      </trans-unit>
+      <trans-unit id="467">
+        <source>%month%/%day%/%year%</source>
+        <target>%day%/%month%/%year%</target>
+      </trans-unit>
+      <trans-unit id="468">
+        <source>Actual status:</source>
+        <target>Etat actuel:</target>
+      </trans-unit>
+      <trans-unit id="469">
+        <source>Animator</source>
+        <target>Animateur</target>
+      </trans-unit>
+      <trans-unit id="470">
+        <source>User</source>
+        <target>Utilisateur</target>
+      </trans-unit>
+      <trans-unit id="471">
+        <source>Concerned Account</source>
+        <target>Compte Concerné</target>
+      </trans-unit>
+      <trans-unit id="472">
+        <source>Sum</source>
+        <target>Somme</target>
+      </trans-unit>
+      <trans-unit id="473">
+        <source>Date and Time</source>
+        <target>Date et Heure</target>
+      </trans-unit>
+      <trans-unit id="474">
+        <source>Anonymous</source>
+        <target>Anonyme</target>
+      </trans-unit>
+      <trans-unit id="475">
+        <source>View history</source>
+        <target>Afficher l'historique</target>
+      </trans-unit>
+      <trans-unit id="476">
+        <source>Public category</source>
+        <target>Catégorie de public</target>
+      </trans-unit>
+      <trans-unit id="477">
+        <source>Users selection</source>
+        <target>Sélection des utilisateurs</target>
+      </trans-unit>
+      <trans-unit id="478">
+        <source>No category</source>
+        <target>Pas de catégorie</target>
+      </trans-unit>
+      <trans-unit id="479">
+        <source>Public category selection</source>
+        <target>Sélection d'une catégorie de public</target>
+      </trans-unit>
+      <trans-unit id="480">
+        <source>Act selection</source>
+        <target>Sélection d'un acte</target>
+      </trans-unit>
+      <trans-unit id="481">
+        <source>Act name</source>
+        <target>Nom de l'acte</target>
+      </trans-unit>
+      <trans-unit id="482">
+        <source>No predefined acts</source>
+        <target>Pas d'actes prédéfinis</target>
+      </trans-unit>
+      <trans-unit id="483">
+        <source>View history</source>
+        <target>Voir l'historique</target>
+      </trans-unit>
+      <trans-unit id="484">
+        <source>Make sure to select the sum unity in accordance with the account unity.</source>
+        <target>Assurez-vous que l'unité de la somme soit en accord avec l'unité du compte.</target>
+      </trans-unit>
+      <trans-unit id="485">
+        <source>You have unchecked the parameter "Follow moderator actions"</source>
+        <target>Vous avez décoché le paramètre "Suivre les actions de l'animateur"</target>
+      </trans-unit>
+      <trans-unit id="486">
+        <source>Info: You cannot delete your own account.</source>
+        <target>Info: Vous ne pouvez pas supprimer votre propre compte.</target>
+      </trans-unit>
+      <trans-unit id="487">
+        <source>Furthermore, accounts and susbscriptions won't be affected.</source>
+        <target>De plus, les comptes et les abonnements ne seront pas affectés.</target>
+      </trans-unit>
+      <trans-unit id="488">
+        <source>The gender field is compulsory.</source>
+        <target>Le champ sexe est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="489">
+        <source>City *</source>
+        <target>Ville *</target>
+      </trans-unit>
+      <trans-unit id="490">
+        <source>Country *</source>
+        <target>Pays *</target>
+      </trans-unit>
+      <trans-unit id="491">
+        <source>Postal code *</source>
+        <target>Code postal *</target>
+      </trans-unit>
+      <trans-unit id="492">
+        <source>The country field is compulsory.</source>
+        <target>Le champ pays est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="493">
+        <source>The city field is compulsory.</source>
+        <target>Le champ ville est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="494">
+        <source>The postal code field is compulsory.</source>
+        <target>Le champ code postal est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="495">
+        <source>Manage the accounts</source>
+        <target>Gérer les comptes</target>
+      </trans-unit>
+      <trans-unit id="496">
+        <source>Structure name</source>
+        <target>Nom de la structure</target>
+      </trans-unit>
+      <trans-unit id="497">
+        <source>Building name</source>
+        <target>Nom du bâtiment</target>
+      </trans-unit>
+      <trans-unit id="498">
+        <source>Room name</source>
+        <target>Nom de la salle</target>
+      </trans-unit>
+      <trans-unit id="499">
+        <source>Computer name</source>
+        <target>Nom de l'ordinateur</target>
+      </trans-unit>
+      <trans-unit id="500">
+        <source>Financier name</source>
+        <target>Nom du financeur</target>
+      </trans-unit>
+      <trans-unit id="501">
+        <source>Subscription name</source>
+        <target>Nom de l'abonnement</target>
+      </trans-unit>
+      <trans-unit id="502">
+        <source>Purchase name</source>
+        <target>Nom de l'achat</target>
+      </trans-unit>
+      <trans-unit id="503">
+        <source>Unitary service name</source>
+        <target>Nom du service unitaire</target>
+      </trans-unit>
+      <trans-unit id="504">
+        <source>Multiple service name</source>
+        <target>Nom du service multiple</target>
+      </trans-unit>
+      <trans-unit id="505">
+        <source>Monetary account</source>
+        <target>Compte monétaire</target>
+      </trans-unit>
+      <trans-unit id="506">
+        <source>Check this box if you want to create a monetary account.</source>
+        <target>Cocher cette case si vous désirez créer un compte monétaire.</target>
+      </trans-unit>
+      <trans-unit id="507">
+        <source>Account name</source>
+        <target>Nom du compte</target>
+      </trans-unit>
+      <trans-unit id="508">
+        <source>Value</source>
+        <target>Valeur</target>
+      </trans-unit>
+      <trans-unit id="509">
+        <source>This menu allows you to delete accounts, monetary or not.</source>
+        <target>Ce menu vous permet de supprimer des comptes, monétaires ou non.</target>
+      </trans-unit>
+      <trans-unit id="510">
+        <source>Account deletion</source>
+        <target>Suppression de compte</target>
+      </trans-unit>
+      <trans-unit id="511">
+        <source>Once an account is deleted, its value is lost, and the former user(s) cannot use it anymore.</source>
+        <target>Une fois qu'un compte est supprimé, sa valeur est perdue, et le ou les ex-possesseurs du compte ne peuvent plus l'utiliser.</target>
+      </trans-unit>
+      <trans-unit id="512">
+        <source>No accounts selected</source>
+        <target>Aucun compte sélectionné</target>
+      </trans-unit>
+      <trans-unit id="513">
+        <source>The selected account(s) have been deleted.</source>
+        <target>Le ou les comptes sélectionnés ont été supprimés.</target>
+      </trans-unit>
+      <trans-unit id="514">
+        <source>The deletion of the account</source>
+        <target>La suppression du compte</target>
+      </trans-unit>
+      <trans-unit id="515">
+        <source>will affect the following users: </source>
+        <target>affectera les utilisateurs suivants : </target>
+      </trans-unit>
+      <trans-unit id="516">
+        <source>Caution, this action is irreversible : the selected account(s) and their value will be completely deleted.</source>
+        <target>Attention, cette action est irréversible : le ou les comptes sélectionnés ainsi que leur valeur seront complétement supprimés.</target>
+      </trans-unit>
+      <trans-unit id="517">
+        <source>A multiple service is an act that, once imputed to an user, leads to the creation of an account.</source>
+        <target>Un service multiple est un acte qui, une fois imputé à un utilisateur, entraîne l'ouverture d'un compte.</target>
+      </trans-unit>
+      <trans-unit id="518">
+        <source>Thereafter, an user can use this account to pay for uses.</source>
+        <target>Par la suite, un utilisateur peut utiliser ce compte pour payer ses usages.</target>
+      </trans-unit>
+      <trans-unit id="519">
+        <source>A subscriber is an user to whom a moderator has imputed at least one subscription.</source>
+        <target>Un abonné est un utilisateur à qui un animateur a imputé au moins un abonnement.</target>
+      </trans-unit>
+      <trans-unit id="520">
+        <source>Account Transaction</source>
+        <target>Transaction sur un Compte</target>
+      </trans-unit>
+      <trans-unit id="521">
+        <source>Modify the balance of an account</source>
+        <target>Modifier la valeur d'un compte</target>
+      </trans-unit>
+      <trans-unit id="522">
+        <source>Accounts List</source>
+        <target>Liste des Comptes</target>
+      </trans-unit>
+      <trans-unit id="523">
+        <source>Paid by</source>
+        <target>Payé par</target>
+      </trans-unit>
+      <trans-unit id="524">
+        <source>Unitary price</source>
+        <target>Prix unitaire</target>
+      </trans-unit>
+      <trans-unit id="525">
+        <source>Save and impute an act</source>
+        <target>Sauvegarder et imputer un acte</target>
+      </trans-unit>
+      <trans-unit id="526">
+        <source>Dashboard of the current month</source>
+        <target>Tableau de bord du mois courant</target>
+      </trans-unit>
+      <trans-unit id="527">
+        <source>From the </source>
+        <target>Du </target>
+      </trans-unit>
+      <trans-unit id="528">
+        <source>to the </source>
+        <target>au </target>
+      </trans-unit>
+      <trans-unit id="529">
+        <source>Global data</source>
+        <target>Données globales</target>
+      </trans-unit>
+      <trans-unit id="530">
+        <source>Free</source>
+        <target>Gratuit</target>
+      </trans-unit>
+      <trans-unit id="531">
+        <source>Quick select</source>
+        <target>Sélection rapide</target>
+      </trans-unit>
+      <trans-unit id="532">
+        <source>select</source>
+        <target>choisir</target>
+      </trans-unit>
+      <trans-unit id="533">
+        <source>Time</source>
+        <target>Temps</target>
+      </trans-unit>
+      <trans-unit id="534">
+        <source>Number of visits</source>
+        <target>Nombre de visites</target>
+      </trans-unit>
+      <trans-unit id="535">
+        <source>Unique visitors</source>
+        <target>Visiteurs uniques</target>
+      </trans-unit>
+      <trans-unit id="536">
+        <source>Regular visitors</source>
+        <target>Visiteurs réguliers</target>
+      </trans-unit>
+      <trans-unit id="537">
+        <source>Checkout</source>
+        <target>Caisse</target>
+      </trans-unit>
+      <trans-unit id="538">
+        <source>Total</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit id="539">
+        <source>Number of valid subscriptions at the end of the month</source>
+        <target>Nombre d'abonnements valides en fin de mois</target>
+      </trans-unit>
+      <trans-unit id="540">
+        <source>Total of uses (with a duration or not)</source>
+        <target>Total des usages (ayant ou non une durée)</target>
+      </trans-unit>
+      <trans-unit id="541">
+        <source>Uses</source>
+        <target>Usages</target>
+      </trans-unit>
+      <trans-unit id="542">
+        <source>Homepage</source>
+        <target>Page d'accueil</target>
+      </trans-unit>
+      <trans-unit id="543">
+        <source>Statistics</source>
+        <target>Statistiques</target>
+      </trans-unit>
+      <trans-unit id="544">
+        <source>An unitary service is the only act of which duration is recorded.</source>
+        <target>Un service unitaire est le seul acte dont la durée est enregistrée.</target>
+      </trans-unit>
+      <trans-unit id="545">
+        <source>The keyed duration at the time of the imputation of this act will permit to realize calculated statistics.</source>
+        <target>La durée entrée au moment de l'imputation de cet acte permettra de réaliser des statistiques chiffrées en heures.</target>
+      </trans-unit>
+      <trans-unit id="546">
+        <source>Default value, it can be adjusted at the time of the imputation.</source>
+        <target>Valeur par défaut, elle pourra être ajustée au moment de l'imputation.</target>
+      </trans-unit>
+      <trans-unit id="547">
+        <source>A subscription is an act that allows an user to have preferential prices on the proposed acts.</source>
+        <target>Un abonnement est un acte qui permet à un utilisateur de bénéficier de tarifs préférentiels pour les actes proposés.</target>
+      </trans-unit>
+      <trans-unit id="548">
+        <source>The imputation of a subscription to an user does not update his category : you have to do it manually.</source>
+        <target>L'imputation d'un abonnement à un utilisateur ne met pas à jour sa catégorie : vous devez le faire manuellement.</target>
+      </trans-unit>
+      <trans-unit id="549">
+        <source>This login already exists, please choose another.</source>
+        <target>Cet identifiant existe déjà, choisissez-en un autre s'il vous plaît</target>
+      </trans-unit>
+      <trans-unit id="550">
+        <source>Use info</source>
+        <target>Informations sur un usage</target>
+      </trans-unit>
+      <trans-unit id="551">
+        <source>Price</source>
+        <target>Prix</target>
+      </trans-unit>
+      <trans-unit id="552">
+        <source>Transaction designation</source>
+        <target>Désignation de la transaction</target>
+      </trans-unit>
+      <trans-unit id="553">
+        <source>Credited sum</source>
+        <target>Somme créditée</target>
+      </trans-unit>
+      <trans-unit id="554">
+        <source>Debited sum</source>
+        <target>Somme débitée</target>
+      </trans-unit>
+      <trans-unit id="555">
+        <source>Number of unities</source>
+        <target>Nombre d'unités</target>
+      </trans-unit>
+      <trans-unit id="556">
+        <source>Initial value</source>
+        <target>Valeur initiale</target>
+      </trans-unit>
+      <trans-unit id="557">
+        <source>In kind</source>
+        <target>En nature</target>
+      </trans-unit>
+      <trans-unit id="558">
+        <source>Cheque</source>
+        <target>Chèque</target>
+      </trans-unit>
+      <trans-unit id="559">
+        <source>Cash</source>
+        <target>Espèces</target>
+      </trans-unit>
+      <trans-unit id="560">
+        <source>Account transaction</source>
+        <target>Transaction sur un compte</target>
+      </trans-unit>
+      <trans-unit id="561">
+        <source>Uses history</source>
+        <target>Historique des usages</target>
+      </trans-unit>
+      <trans-unit id="562">
+        <source>Countable service</source>
+        <target>Service multiple</target>
+      </trans-unit>
+      <trans-unit id="563">
+        <source>You are about to delete</source>
+        <target>Vous êtes sur le point de supprimer</target>
+      </trans-unit>
+      <trans-unit id="564">
+        <source>imputation(s)</source>
+        <target>imputation(s)</target>
+      </trans-unit>
+      <trans-unit id="565">
+        <source>The selected use(s) will not appear in the statistics and in the history anymore : they will be completely removed from the database</source>
+        <target>Les usages sélectionnés n'apparaîtront plus dans les statistiques et dans l'historique : ils seront complétement supprimés de la base de données</target>
+      </trans-unit>
+      <trans-unit id="566">
+        <source>This action does</source>
+        <target>Cette action</target>
+      </trans-unit>
+      <trans-unit id="567">
+        <source>not cancel</source>
+        <target>n'annule pas</target>
+      </trans-unit>
+      <trans-unit id="568">
+        <source>an imputation, it only removes it</source>
+        <target>une imputation, elle la supprime seulement</target>
+      </trans-unit>
+      <trans-unit id="569">
+        <source>the user will not be paid off and his account will not be modified</source>
+        <target>l'utilisateur ne sera pas remboursé et son compte ne sera pas modifié</target>
+      </trans-unit>
+      <trans-unit id="570">
+        <source>This action is irreversible</source>
+        <target>Cette action est irréversible</target>
+      </trans-unit>
+      <trans-unit id="571">
+        <source>End date</source>
+        <target>Date de fin</target>
+      </trans-unit>
+      <trans-unit id="572">
+        <source>End time</source>
+        <target>Heure de fin</target>
+      </trans-unit>
+      <trans-unit id="573">
+        <source>Beginning time</source>
+        <target>Heure de début</target>
+      </trans-unit>
+      <trans-unit id="574">
+        <source>Uses deletion</source>
+        <target>Suppression des usages</target>
+      </trans-unit>
+      <trans-unit id="575">
+        <source>The uses have been deleted</source>
+        <target>Les usages ont été supprimés</target>
+      </trans-unit>
+      <trans-unit id="576">
+        <source>Moderator</source>
+        <target>Animateur</target>
+      </trans-unit>
+      <trans-unit id="577">
+        <source>Afghanistan</source>
+        <target>Afghanistan</target>
+      </trans-unit>
+      <trans-unit id="578">
+        <source>Aringland Islands</source>
+        <target>Iles Aringland</target>
+      </trans-unit>
+      <trans-unit id="579">
+        <source>Albania</source>
+        <target>Albanie</target>
+      </trans-unit>
+      <trans-unit id="580">
+        <source>Algeria</source>
+        <target>Algérie</target>
+      </trans-unit>
+      <trans-unit id="581">
+        <source>American Samoa</source>
+        <target>Samoa américaines</target>
+      </trans-unit>
+      <trans-unit id="582">
+        <source>Andorra</source>
+        <target>Andorre</target>
+      </trans-unit>
+      <trans-unit id="583">
+        <source>Angola</source>
+        <target>Angola</target>
+      </trans-unit>
+      <trans-unit id="584">
+        <source>Anguilla</source>
+        <target>Anguilla</target>
+      </trans-unit>
+      <trans-unit id="585">
+        <source>Antarctica</source>
+        <target>Antarctique</target>
+      </trans-unit>
+      <trans-unit id="586">
+        <source>Antigua and Barbuda</source>
+        <target>Antigua-et-Barbuda</target>
+      </trans-unit>
+      <trans-unit id="587">
+        <source>Argentina</source>
+        <target>Argentine</target>
+      </trans-unit>
+      <trans-unit id="588">
+        <source>Armenia</source>
+        <target>Arménie</target>
+      </trans-unit>
+      <trans-unit id="589">
+        <source>Aruba</source>
+        <target>Aruba</target>
+      </trans-unit>
+      <trans-unit id="590">
+        <source>Australia</source>
+        <target>Australie</target>
+      </trans-unit>
+      <trans-unit id="591">
+        <source>Austria</source>
+        <target>Autriche</target>
+      </trans-unit>
+      <trans-unit id="592">
+        <source>Azerbaijan</source>
+        <target>Azerbaïdjan</target>
+      </trans-unit>
+      <trans-unit id="593">
+        <source>Bahamas</source>
+        <target>Bahamas</target>
+      </trans-unit>
+      <trans-unit id="594">
+        <source>Bahrain</source>
+        <target>Bahreïn</target>
+      </trans-unit>
+      <trans-unit id="595">
+        <source>Bangladesh</source>
+        <target>Bangladesh</target>
+      </trans-unit>
+      <trans-unit id="596">
+        <source>Barbados</source>
+        <target>Barbade</target>
+      </trans-unit>
+      <trans-unit id="597">
+        <source>Belarus</source>
+        <target>Biélorussie</target>
+      </trans-unit>
+      <trans-unit id="598">
+        <source>Belgium</source>
+        <target>Belgique</target>
+      </trans-unit>
+      <trans-unit id="599">
+        <source>Belize</source>
+        <target>Bélize</target>
+      </trans-unit>
+      <trans-unit id="600">
+        <source>Benin</source>
+        <target>Bénin</target>
+      </trans-unit>
+      <trans-unit id="601">
+        <source>Bermuda</source>
+        <target>Bermudes</target>
+      </trans-unit>
+      <trans-unit id="602">
+        <source>Bhutan</source>
+        <target>Bhoutan</target>
+      </trans-unit>
+      <trans-unit id="603">
+        <source>Bolivia</source>
+        <target>Bolivie</target>
+      </trans-unit>
+      <trans-unit id="604">
+        <source>Bosnia and Herzegovina</source>
+        <target>Bosnie-Herzégovine</target>
+      </trans-unit>
+      <trans-unit id="605">
+        <source>Botswana</source>
+        <target>Botswana</target>
+      </trans-unit>
+      <trans-unit id="606">
+        <source>Bouvet Island</source>
+        <target>Ile Bouvet</target>
+      </trans-unit>
+      <trans-unit id="607">
+        <source>Brazil</source>
+        <target>Brésil</target>
+      </trans-unit>
+      <trans-unit id="608">
+        <source>British Indian Ocean territory</source>
+        <target>Territoire britannique de l'océan Indien</target>
+      </trans-unit>
+      <trans-unit id="609">
+        <source>Brunei Darussalam</source>
+        <target>Brunei</target>
+      </trans-unit>
+      <trans-unit id="610">
+        <source>Bulgaria</source>
+        <target>Bulgarie</target>
+      </trans-unit>
+      <trans-unit id="611">
+        <source>Burkina Faso</source>
+        <target>Burkina Faso</target>
+      </trans-unit>
+      <trans-unit id="612">
+        <source>Burundi</source>
+        <target>Burundi</target>
+      </trans-unit>
+      <trans-unit id="613">
+        <source>Cambodia</source>
+        <target>Cambodge</target>
+      </trans-unit>
+      <trans-unit id="614">
+        <source>Cameroon</source>
+        <target>Cameroun</target>
+      </trans-unit>
+      <trans-unit id="615">
+        <source>Canada</source>
+        <target>Canada</target>
+      </trans-unit>
+      <trans-unit id="616">
+        <source>Cape Verde</source>
+        <target>Cap Vert</target>
+      </trans-unit>
+      <trans-unit id="617">
+        <source>Cayman Islands</source>
+        <target>Iles Caïmans</target>
+      </trans-unit>
+      <trans-unit id="618">
+        <source>Central African Republic</source>
+        <target>Centrafrique</target>
+      </trans-unit>
+      <trans-unit id="619">
+        <source>Chad</source>
+        <target>Tchad</target>
+      </trans-unit>
+      <trans-unit id="620">
+        <source>Chile</source>
+        <target>Chili</target>
+      </trans-unit>
+      <trans-unit id="621">
+        <source>China</source>
+        <target>Chine</target>
+      </trans-unit>
+      <trans-unit id="622">
+        <source>Christmas Island</source>
+        <target>Ile Christmas</target>
+      </trans-unit>
+      <trans-unit id="623">
+        <source>Cocos (Keeling) Islands</source>
+        <target>Iles Cocos</target>
+      </trans-unit>
+      <trans-unit id="624">
+        <source>Colombia</source>
+        <target>Colombie</target>
+      </trans-unit>
+      <trans-unit id="625">
+        <source>Comoros</source>
+        <target>Comores</target>
+      </trans-unit>
+      <trans-unit id="626">
+        <source>Congo</source>
+        <target>Congo</target>
+      </trans-unit>
+      <trans-unit id="627">
+        <source>Congo Democratic Republic</source>
+        <target>République Démocratique du Congo</target>
+      </trans-unit>
+      <trans-unit id="628">
+        <source>Cook Islands</source>
+        <target>Iles Cook</target>
+      </trans-unit>
+      <trans-unit id="629">
+        <source>Costa Rica</source>
+        <target>Costa Rica</target>
+      </trans-unit>
+      <trans-unit id="630">
+        <source>Ivory Coast</source>
+        <target>Côte d'Ivoire</target>
+      </trans-unit>
+      <trans-unit id="631">
+        <source>Croatia</source>
+        <target>Croatie</target>
+      </trans-unit>
+      <trans-unit id="632">
+        <source>Cuba</source>
+        <target>Cuba</target>
+      </trans-unit>
+      <trans-unit id="633">
+        <source>Cyprus</source>
+        <target>Chypre</target>
+      </trans-unit>
+      <trans-unit id="634">
+        <source>Czech Republic</source>
+        <target>République Tchèque</target>
+      </trans-unit>
+      <trans-unit id="635">
+        <source>Denmark</source>
+        <target>Danemark</target>
+      </trans-unit>
+      <trans-unit id="636">
+        <source>Djibouti</source>
+        <target>Djibouti</target>
+      </trans-unit>
+      <trans-unit id="636">
+        <source>Dominica</source>
+        <target>Dominique</target>
+      </trans-unit>
+      <trans-unit id="637">
+        <source>Dominican Republic</source>
+        <target>République Dominicaine</target>
+      </trans-unit>
+      <trans-unit id="638">
+        <source>East Timor</source>
+        <target>Timor-Leste</target>
+      </trans-unit>
+      <trans-unit id="639">
+        <source>Ecuador</source>
+        <target>Equateur</target>
+      </trans-unit>
+      <trans-unit id="640">
+        <source>Egypt</source>
+        <target>Egypte</target>
+      </trans-unit>
+      <trans-unit id="641">
+        <source>El Salvador</source>
+        <target>Le Salvador</target>
+      </trans-unit>
+      <trans-unit id="642">
+        <source>Equatorial Guinea</source>
+        <target>Guinée Equatoriale</target>
+      </trans-unit>
+      <trans-unit id="643">
+        <source>Eritrea</source>
+        <target>Erythrée</target>
+      </trans-unit>
+      <trans-unit id="644">
+        <source>Estonia</source>
+        <target>Estonie</target>
+      </trans-unit>
+      <trans-unit id="645">
+        <source>Ethiopia</source>
+        <target>Ethiopie</target>
+      </trans-unit>
+      <trans-unit id="646">
+        <source>Falkland Islands</source>
+        <target>Iles Malouines</target>
+      </trans-unit>
+      <trans-unit id="647">
+        <source>Faroe Islands</source>
+        <target>Iles Feroe</target>
+      </trans-unit>
+      <trans-unit id="648">
+        <source>Fiji</source>
+        <target>Fidji</target>
+      </trans-unit>
+      <trans-unit id="649">
+        <source>Finland</source>
+        <target>Finlande</target>
+      </trans-unit>
+      <trans-unit id="650">
+        <source>France</source>
+        <target>France</target>
+      </trans-unit>
+      <trans-unit id="651">
+        <source>French Guiana</source>
+        <target>Guyane</target>
+      </trans-unit>
+      <trans-unit id="652">
+        <source>French Polynesia</source>
+        <target>Polynésie française</target>
+      </trans-unit>
+      <trans-unit id="653">
+        <source>French Southern Territories</source>
+        <target>Territoires français du pacifique sud</target>
+      </trans-unit>
+      <trans-unit id="654">
+        <source>Gabon</source>
+        <target>Gabon</target>
+      </trans-unit>
+      <trans-unit id="655">
+        <source>Gambia</source>
+        <target>Gambie</target>
+      </trans-unit>
+      <trans-unit id="656">
+        <source>Georgia</source>
+        <target>Géorgie</target>
+      </trans-unit>
+      <trans-unit id="657">
+        <source>Germany</source>
+        <target>Allemagne</target>
+      </trans-unit>
+      <trans-unit id="658">
+        <source>Ghana</source>
+        <target>Ghana</target>
+      </trans-unit>
+      <trans-unit id="659">
+        <source>Gibraltar</source>
+        <target>Gibraltar</target>
+      </trans-unit>
+      <trans-unit id="660">
+        <source>Greece</source>
+        <target>Grèce</target>
+      </trans-unit>
+      <trans-unit id="661">
+        <source>Greenland</source>
+        <target>Groenland</target>
+      </trans-unit>
+      <trans-unit id="662">
+        <source>Grenada</source>
+        <target>Grenade</target>
+      </trans-unit>
+      <trans-unit id="663">
+        <source>Guadeloupe</source>
+        <target>Guadeloupe</target>
+      </trans-unit>
+      <trans-unit id="664">
+        <source>Guam</source>
+        <target>Guam</target>
+      </trans-unit>
+      <trans-unit id="665">
+        <source>Guatemala</source>
+        <target>Guatemala</target>
+      </trans-unit>
+      <trans-unit id="666">
+        <source>Guinea</source>
+        <target>Guinée</target>
+      </trans-unit>
+      <trans-unit id="667">
+        <source>Guinea-Bissau</source>
+        <target>Guinée-Bissau</target>
+      </trans-unit>
+      <trans-unit id="668">
+        <source>Guyana</source>
+        <target>Guyane</target>
+      </trans-unit>
+      <trans-unit id="669">
+        <source>Haiti</source>
+        <target>Haïti</target>
+      </trans-unit>
+      <trans-unit id="670">
+        <source>Heard and McDonald Islands</source>
+        <target>Ile Heard et iles McDonald</target>
+      </trans-unit>
+      <trans-unit id="670">
+        <source>Honduras</source>
+        <target>Honduras</target>
+      </trans-unit>
+      <trans-unit id="671">
+        <source>Hong Kong</source>
+        <target>Hong Kong</target>
+      </trans-unit>
+      <trans-unit id="672">
+        <source>Hungary</source>
+        <target>Hongrie</target>
+      </trans-unit>
+      <trans-unit id="673">
+        <source>Iceland</source>
+        <target>Islande</target>
+      </trans-unit>
+      <trans-unit id="674">
+        <source>India</source>
+        <target>Inde</target>
+      </trans-unit>
+      <trans-unit id="675">
+        <source>Indonesia</source>
+        <target>Indonésie</target>
+      </trans-unit>
+      <trans-unit id="676">
+        <source>Iran</source>
+        <target>Iran</target>
+      </trans-unit>
+      <trans-unit id="677">
+        <source>Iraq</source>
+        <target>Irak</target>
+      </trans-unit>
+      <trans-unit id="678">
+        <source>Ireland</source>
+        <target>Irlande</target>
+      </trans-unit>
+      <trans-unit id="679">
+        <source>Israel</source>
+        <target>Israël</target>
+      </trans-unit>
+      <trans-unit id="680">
+        <source>Italy</source>
+        <target>Italie</target>
+      </trans-unit>
+      <trans-unit id="681">
+        <source>Jamaica</source>
+        <target>Jamaïque</target>
+      </trans-unit>
+      <trans-unit id="682">
+        <source>Japan</source>
+        <target>Japon</target>
+      </trans-unit>
+      <trans-unit id="683">
+        <source>Jordan</source>
+        <target>Jordanie</target>
+      </trans-unit>
+      <trans-unit id="684">
+        <source>Kazakhstan</source>
+        <target>Kazakhstan</target>
+      </trans-unit>
+      <trans-unit id="685">
+        <source>Kenya</source>
+        <target>Kenya</target>
+      </trans-unit>
+      <trans-unit id="686">
+        <source>Kiribati</source>
+        <target>Kiribati</target>
+      </trans-unit>
+      <trans-unit id="687">
+        <source>Korea (north)</source>
+        <target>Corée du Nord</target>
+      </trans-unit>
+      <trans-unit id="688">
+        <source>Korea (south)</source>
+        <target>Corée du Sud</target>
+      </trans-unit>
+      <trans-unit id="689">
+        <source>Kuwait</source>
+        <target>Koweït</target>
+      </trans-unit>
+      <trans-unit id="690">
+        <source>Kyrgyzstan</source>
+        <target>Kirghizistan</target>
+      </trans-unit>
+      <trans-unit id="691">
+        <source>Lao People's Democratic Republic</source>
+        <target>Laos</target>
+      </trans-unit>
+      <trans-unit id="692">
+        <source>Latvia</source>
+        <target>Lettonie</target>
+      </trans-unit>
+      <trans-unit id="693">
+        <source>Lebanon</source>
+        <target>Liban</target>
+      </trans-unit>
+      <trans-unit id="694">
+        <source>Lesotho</source>
+        <target>Lesotho</target>
+      </trans-unit>
+      <trans-unit id="695">
+        <source>Liberia</source>
+        <target>Liberia</target>
+      </trans-unit>
+      <trans-unit id="696">
+        <source>Libyan Arab Jamahiriya</source>
+        <target>Libye</target>
+      </trans-unit>
+      <trans-unit id="697">
+        <source>Liechtenstein</source>
+        <target>Liechtenstein</target>
+      </trans-unit>
+      <trans-unit id="698">
+        <source>Lithuania</source>
+        <target>Lituanie</target>
+      </trans-unit>
+      <trans-unit id="699">
+        <source>Luxembourg</source>
+        <target>Luxembourg</target>
+      </trans-unit>
+      <trans-unit id="700">
+        <source>Macao</source>
+        <target>Macao</target>
+      </trans-unit>
+      <trans-unit id="701">
+        <source>Macedonia</source>
+        <target>Macédoine</target>
+      </trans-unit>
+      <trans-unit id="702">
+        <source>Madagascar</source>
+        <target>Madagascar</target>
+      </trans-unit>
+      <trans-unit id="703">
+        <source>Malawi</source>
+        <target>Malawi</target>
+      </trans-unit>
+      <trans-unit id="704">
+        <source>Malaysia</source>
+        <target>Malaisie</target>
+      </trans-unit>
+      <trans-unit id="705">
+        <source>Maldives</source>
+        <target>Maldives</target>
+      </trans-unit>
+      <trans-unit id="705">
+        <source>Mali</source>
+        <target>Mali</target>
+      </trans-unit>
+      <trans-unit id="706">
+        <source>Malta</source>
+        <target>Malte</target>
+      </trans-unit>
+      <trans-unit id="707">
+        <source>Marshall Islands</source>
+        <target>Iles Marshall</target>
+      </trans-unit>
+      <trans-unit id="708">
+        <source>Martinique</source>
+        <target>Martinique</target>
+      </trans-unit>
+      <trans-unit id="709">
+        <source>Mauritania</source>
+        <target>Mauritanie</target>
+      </trans-unit>
+      <trans-unit id="710">
+        <source>Mauritius</source>
+        <target>Ile Maurice</target>
+      </trans-unit>
+      <trans-unit id="711">
+        <source>Mayotte</source>
+        <target>Mayotte</target>
+      </trans-unit>
+      <trans-unit id="712">
+        <source>Mexico</source>
+        <target>Mexique</target>
+      </trans-unit>
+      <trans-unit id="713">
+        <source>Micronesia</source>
+        <target>Micronésie</target>
+      </trans-unit>
+      <trans-unit id="714">
+        <source>Moldova</source>
+        <target>Moldavie</target>
+      </trans-unit>
+      <trans-unit id="715">
+        <source>Monaco</source>
+        <target>Monaco</target>
+      </trans-unit>
+      <trans-unit id="716">
+        <source>Mongolia</source>
+        <target>Mongolie</target>
+      </trans-unit>
+      <trans-unit id="717">
+        <source>Montserrat</source>
+        <target>Montserrat</target>
+      </trans-unit>
+      <trans-unit id="718">
+        <source>Morocco</source>
+        <target>Maroc</target>
+      </trans-unit>
+      <trans-unit id="719">
+        <source>Mozambique</source>
+        <target>Mozambique</target>
+      </trans-unit>
+      <trans-unit id="720">
+        <source>Myanmar</source>
+        <target>Birmanie</target>
+      </trans-unit>
+      <trans-unit id="721">
+        <source>Namibia</source>
+        <target>Namibie</target>
+      </trans-unit>
+      <trans-unit id="722">
+        <source>Nauru</source>
+        <target>Nauru</target>
+      </trans-unit>
+      <trans-unit id="723">
+        <source>Nepal</source>
+        <target>Népal</target>
+      </trans-unit>
+      <trans-unit id="724">
+        <source>Netherlands</source>
+        <target>Pays-Bas</target>
+      </trans-unit>
+      <trans-unit id="725">
+        <source>Netherlands Antilles</source>
+        <target>Antilles néerlandaises</target>
+      </trans-unit>
+      <trans-unit id="726">
+        <source>New Caledonia</source>
+        <target>Nouvelle Calédonie</target>
+      </trans-unit>
+      <trans-unit id="727">
+        <source>New Zealand</source>
+        <target>Nouvelle Zélande</target>
+      </trans-unit>
+      <trans-unit id="728">
+        <source>Nicaragua</source>
+        <target>Nicaragua</target>
+      </trans-unit>
+      <trans-unit id="729">
+        <source>Niger</source>
+        <target>Niger</target>
+      </trans-unit>
+      <trans-unit id="730">
+        <source>Nigeria</source>
+        <target>Nigéria</target>
+      </trans-unit>
+      <trans-unit id="731">
+        <source>Niue</source>
+        <target>Niue</target>
+      </trans-unit>
+      <trans-unit id="732">
+        <source>Norfolk Island</source>
+        <target>Ile Norfolk</target>
+      </trans-unit>
+      <trans-unit id="733">
+        <source>Northern Mariana Islands</source>
+        <target>Iles Mariannes du Nord</target>
+      </trans-unit>
+      <trans-unit id="734">
+        <source>Norway</source>
+        <target>Norvége</target>
+      </trans-unit>
+      <trans-unit id="735">
+        <source>Oman</source>
+        <target>Oman</target>
+      </trans-unit>
+      <trans-unit id="736">
+        <source>Pakistan</source>
+        <target>Pakistan</target>
+      </trans-unit>
+      <trans-unit id="737">
+        <source>Palau</source>
+        <target>Palaos</target>
+      </trans-unit>
+      <trans-unit id="738">
+        <source>Palestinian Territories</source>
+        <target>Palestine</target>
+      </trans-unit>
+      <trans-unit id="739">
+        <source>Panama</source>
+        <target>Panama</target>
+      </trans-unit>
+      <trans-unit id="740">
+        <source>Papua New Guinea</source>
+        <target>Papouasie Nouvelle-Guinée</target>
+      </trans-unit>
+      <trans-unit id="741">
+        <source>Paraguay</source>
+        <target>Paraguay</target>
+      </trans-unit>
+      <trans-unit id="742">
+        <source>Peru</source>
+        <target>Pérou</target>
+      </trans-unit>
+      <trans-unit id="743">
+        <source>Philippines</source>
+        <target>Philippines</target>
+      </trans-unit>
+      <trans-unit id="744">
+        <source>Pitcairn</source>
+        <target>Iles Pitcairn</target>
+      </trans-unit>
+      <trans-unit id="745">
+        <source>Poland</source>
+        <target>Pologne</target>
+      </trans-unit>
+      <trans-unit id="746">
+        <source>Portugal</source>
+        <target>Portugal</target>
+      </trans-unit>
+      <trans-unit id="747">
+        <source>Puerto Rico</source>
+        <target>Porto Rico</target>
+      </trans-unit>
+      <trans-unit id="748">
+        <source>Qatar</source>
+        <target>Qatar</target>
+      </trans-unit>
+      <trans-unit id="749">
+        <source>Reunion</source>
+        <target>Réunion</target>
+      </trans-unit>
+      <trans-unit id="750">
+        <source>Romania</source>
+        <target>Roumanie</target>
+      </trans-unit>
+      <trans-unit id="751">
+        <source>Russian Federation</source>
+        <target>Russie</target>
+      </trans-unit>
+      <trans-unit id="752">
+        <source>Rwanda</source>
+        <target>Rwanda</target>
+      </trans-unit>
+      <trans-unit id="753">
+        <source>Saint Helena</source>
+        <target>Sainte-Hélène</target>
+      </trans-unit>
+      <trans-unit id="754">
+        <source>Saint Kitts and Nevis</source>
+        <target>Saint-Kitts-et-Nevis</target>
+      </trans-unit>
+      <trans-unit id="755">
+        <source>Saint Lucia</source>
+        <target>Sainte Lucie</target>
+      </trans-unit>
+      <trans-unit id="756">
+        <source>Saint Pierre and Miquelon</source>
+        <target>Saint Pierre et Miquelon</target>
+      </trans-unit>
+      <trans-unit id="757">
+        <source>Saint Vincent and the Grenadines</source>
+        <target>Saint Vincent et les Grenadines</target>
+      </trans-unit>
+      <trans-unit id="758">
+        <source>Samoa</source>
+        <target>Samoa</target>
+      </trans-unit>
+      <trans-unit id="759">
+        <source>San Marino</source>
+        <target>Saint Marin</target>
+      </trans-unit>
+      <trans-unit id="760">
+        <source>Sao Tome and Principe</source>
+        <target>Sao Tomé-et-Principe</target>
+      </trans-unit>
+      <trans-unit id="761">
+        <source>Saudi Arabia</source>
+        <target>Arabie Saoudite</target>
+      </trans-unit>
+      <trans-unit id="762">
+        <source>Senegal</source>
+        <target>Sénégal</target>
+      </trans-unit>
+      <trans-unit id="763">
+        <source>Serbia and Montenegro</source>
+        <target>Serbie et Monténégro</target>
+      </trans-unit>
+      <trans-unit id="764">
+        <source>Seychelles</source>
+        <target>Seychelles</target>
+      </trans-unit>
+      <trans-unit id="765">
+        <source>Sierra Leone</source>
+        <target>Sierra Leone</target>
+      </trans-unit>
+      <trans-unit id="766">
+        <source>Singapore</source>
+        <target>Singapour</target>
+      </trans-unit>
+      <trans-unit id="767">
+        <source>Slovakia</source>
+        <target>Slovaquie</target>
+      </trans-unit>
+      <trans-unit id="768">
+        <source>Slovenia</source>
+        <target>Slovénie</target>
+      </trans-unit>
+      <trans-unit id="769">
+        <source>Solomon Islands</source>
+        <target>Iles Salomon</target>
+      </trans-unit>
+      <trans-unit id="770">
+        <source>Somalia</source>
+        <target>Somalie</target>
+      </trans-unit>
+      <trans-unit id="771">
+        <source>South Africa</source>
+        <target>Afrique du Sud</target>
+      </trans-unit>
+      <trans-unit id="772">
+        <source>South Georgia and the South Sandwich Islands</source>
+        <target>Géorgie du Sud-et-les Iles Sandwich du Sud</target>
+      </trans-unit>
+      <trans-unit id="773">
+        <source>Spain</source>
+        <target>Espagne</target>
+      </trans-unit>
+      <trans-unit id="774">
+        <source>Sri Lanka</source>
+        <target>Sri Lanka</target>
+      </trans-unit>
+      <trans-unit id="775">
+        <source>Sudan</source>
+        <target>Soudan</target>
+      </trans-unit>
+      <trans-unit id="776">
+        <source>Suriname</source>
+        <target>Surinam</target>
+      </trans-unit>
+      <trans-unit id="777">
+        <source>Svalbard and Jan Mayen Islands</source>
+        <target>Ile Jan Mayen</target>
+      </trans-unit>
+      <trans-unit id="778">
+        <source>Swaziland</source>
+        <target>Swaziland</target>
+      </trans-unit>
+      <trans-unit id="779">
+        <source>Sweden</source>
+        <target>Suède</target>
+      </trans-unit>
+      <trans-unit id="780">
+        <source>Switzerland</source>
+        <target>Suisse</target>
+      </trans-unit>
+      <trans-unit id="781">
+        <source>Syria</source>
+        <target>Syrie</target>
+      </trans-unit>
+      <trans-unit id="782">
+        <source>Taiwan</source>
+        <target>Taïwan</target>
+      </trans-unit>
+      <trans-unit id="783">
+        <source>Tajikistan</source>
+        <target>Tadjikistan</target>
+      </trans-unit>
+      <trans-unit id="784">
+        <source>Tanzania</source>
+        <target>Tanzanie</target>
+      </trans-unit>
+      <trans-unit id="785">
+        <source>Thailand</source>
+        <target>Thaïlande</target>
+      </trans-unit>
+      <trans-unit id="786">
+        <source>Togo</source>
+        <target>Togo</target>
+      </trans-unit>
+      <trans-unit id="787">
+        <source>Tokelau</source>
+        <target>Tokelau</target>
+      </trans-unit>
+      <trans-unit id="788">
+        <source>Tonga</source>
+        <target>Tonga</target>
+      </trans-unit>
+      <trans-unit id="789">
+        <source>Trinidad and Tobago</source>
+        <target>Trinité et Tobago</target>
+      </trans-unit>
+      <trans-unit id="790">
+        <source>Tunisia</source>
+        <target>Tunisie</target>
+      </trans-unit>
+      <trans-unit id="791">
+        <source>Turkey</source>
+        <target>Turquie</target>
+      </trans-unit>
+      <trans-unit id="792">
+        <source>Turkmenistan</source>
+        <target>Turkménistan</target>
+      </trans-unit>
+      <trans-unit id="793">
+        <source>Turks and Caicos Islands</source>
+        <target>Iles Turques-et-Caïques</target>
+      </trans-unit>
+      <trans-unit id="794">
+        <source>Tuvalu</source>
+        <target>Tuvalu</target>
+      </trans-unit>
+      <trans-unit id="795">
+        <source>Uganda</source>
+        <target>Ouganda</target>
+      </trans-unit>
+      <trans-unit id="796">
+        <source>Ukraine</source>
+        <target>Ukraine</target>
+      </trans-unit>
+      <trans-unit id="797">
+        <source>United Arab Emirates</source>
+        <target>Emirats Arabes Unis</target>
+      </trans-unit>
+      <trans-unit id="798">
+        <source>United Kingdom</source>
+        <target>Royaume-Uni</target>
+      </trans-unit>
+      <trans-unit id="799">
+        <source>United States of America</source>
+        <target>Etats-Unis d'Amérique</target>
+      </trans-unit>
+      <trans-unit id="800">
+        <source>Uruguay</source>
+        <target>Uruguay</target>
+      </trans-unit>
+      <trans-unit id="801">
+        <source>Uzbekistan</source>
+        <target>Ouzbékistan</target>
+      </trans-unit>
+      <trans-unit id="802">
+        <source>Vanuatu</source>
+        <target>Vanuatu</target>
+      </trans-unit>
+      <trans-unit id="803">
+        <source>Vatican City</source>
+        <target>Vatican</target>
+      </trans-unit>
+      <trans-unit id="804">
+        <source>Venezuela</source>
+        <target>Venezuela</target>
+      </trans-unit>
+      <trans-unit id="805">
+        <source>Vietnam</source>
+        <target>Vietnam</target>
+      </trans-unit>
+      <trans-unit id="806">
+        <source>Virgin Islands (British)</source>
+        <target>Iles Vierges britanniques</target>
+      </trans-unit>
+      <trans-unit id="807">
+        <source>Virgin Islands (US)</source>
+        <target>Iles Vierges américaines</target>
+      </trans-unit>
+      <trans-unit id="808">
+        <source>Wallis and Futuna Islands</source>
+        <target>Iles Wallis et Futuna</target>
+      </trans-unit>
+      <trans-unit id="809">
+        <source>Western Sahara</source>
+        <target>Sahara occidental</target>
+      </trans-unit>
+      <trans-unit id="810">
+        <source>Yemen</source>
+        <target>Yémen</target>
+      </trans-unit>
+      <trans-unit id="811">
+        <source>Zaire</source>
+        <target>Zaïre</target>
+      </trans-unit>
+      <trans-unit id="812">
+        <source>Zambia</source>
+        <target>Zambie</target>
+      </trans-unit>
+      <trans-unit id="813">
+        <source>Zimbabwe</source>
+        <target>Zimbabwe</target>
+      </trans-unit>
+      <trans-unit id="814">
+        <source>No imputations selected</source>
+        <target>Aucune imputation sélectionnée</target>
+      </trans-unit>
+      <trans-unit id="815">
+        <source>The cellphone number field must not exceed %max_length% characters.</source>
+        <target>Le champ numéro de téléphone portable ne peut comporter plus de %max_length% caractères.</target>
+      </trans-unit>
+      <trans-unit id="816">
+        <source>The uses have been anonymized.</source>
+        <target>Les usages ont été anonymisés.</target>
+      </trans-unit>
+      <trans-unit id="817">
+        <source>Starts Now</source>
+        <target>Débute Maintenant</target>
+      </trans-unit>
+      <trans-unit id="818">
+        <source>Ends Now</source>
+        <target>Termine Maintenant</target>
+      </trans-unit>
+      <trans-unit id="819">
+        <source>Choisir</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="820">
+        <source>Date</source>
+        <target>Date</target>
+      </trans-unit>
+      <trans-unit id="821">
+        <source>Pay by</source>
+        <target>Paie par</target>
+      </trans-unit>
+      <trans-unit id="822">
+        <source>Beginning time</source>
+        <target>Heure de début</target>
+      </trans-unit>
+      <trans-unit id="823">
+        <source>End time</source>
+        <target>Heure de fin</target>
+      </trans-unit>
+      <trans-unit id="824">
+        <source>Final date</source>
+        <target>Date de fin</target>
+      </trans-unit>
+      <trans-unit id="825">
+        <source>This account belongs to</source>
+        <target>Ce compte appartient à</target>
+      </trans-unit>
+      <trans-unit id="826">
+        <source>Account info</source>
+        <target>Informations sur un compte</target>
+      </trans-unit>
+      <trans-unit id="827">
+        <source>mm/dd/yy</source>
+        <target>dd/mm/yy</target>
+      </trans-unit>
+      <trans-unit id="828">
+        <source>Jan</source>
+        <target>Jan</target>
+      </trans-unit>
+      <trans-unit id="829">
+        <source>One or several accounts for the method of payment 'Account' have not been specified</source>
+        <target>Un ou plusieurs comptes n'ont pas été renseignés pour le mode de paiement 'Compte'</target>
+      </trans-unit>
+      <trans-unit id="830">
+        <source>The account for the method of payment 'Account' is compulsory</source>
+        <target>Le compte est obligatoire pour le mode de paiement 'Compte'</target>
+      </trans-unit>
+      <trans-unit id="831">
+        <source>Feb</source>
+        <target>Fév</target>
+      </trans-unit>
+      <trans-unit id="832">
+        <source>Mar</source>
+        <target>Mar</target>
+      </trans-unit>
+      <trans-unit id="833">
+        <source>Apr</source>
+        <target>Avr</target>
+      </trans-unit>
+      <trans-unit id="834">
+        <source>May</source>
+        <target>Mai</target>
+      </trans-unit>
+      <trans-unit id="835">
+        <source>Jun</source>
+        <target>Jui</target>
+      </trans-unit>
+      <trans-unit id="836">
+        <source>Jul</source>
+        <target>Jul</target>
+      </trans-unit>
+      <trans-unit id="837">
+        <source>Aug</source>
+        <target>Aou</target>
+      </trans-unit>
+      <trans-unit id="838">
+        <source>Sep</source>
+        <target>Sep</target>
+      </trans-unit>
+      <trans-unit id="839">
+        <source>Oct</source>
+        <target>Oct</target>
+      </trans-unit>
+      <trans-unit id="840">
+        <source>Nov</source>
+        <target>Nov</target>
+      </trans-unit>
+      <trans-unit id="841">
+        <source>Dec</source>
+        <target>Déc</target>
+      </trans-unit>
+      <trans-unit id="842">
+        <source>Su</source>
+        <target>Di</target>
+      </trans-unit>
+      <trans-unit id="843">
+        <source>Mo</source>
+        <target>Lu</target>
+      </trans-unit>
+      <trans-unit id="844">
+        <source>Tu</source>
+        <target>Ma</target>
+      </trans-unit>
+      <trans-unit id="845">
+        <source>We</source>
+        <target>Me</target>
+      </trans-unit>
+      <trans-unit id="846">
+        <source>Th</source>
+        <target>Je</target>
+      </trans-unit>
+      <trans-unit id="847">
+        <source>Fr</source>
+        <target>Ve</target>
+      </trans-unit>
+      <trans-unit id="848">
+        <source>Sa</source>
+        <target>Sa</target>
+      </trans-unit>
+      <trans-unit id="849">
+        <source>Detailed statistics</source>
+        <target>Statistiques détaillées</target>
+      </trans-unit>
+      <trans-unit id="850">
+        <source>Temporal statement</source>
+        <target>Bilan temporel</target>
+      </trans-unit>
+      <trans-unit id="851">
+        <source>Balance</source>
+        <target>Caisse</target>
+      </trans-unit>
+      <trans-unit id="852">
+        <source>Statistics generation</source>
+        <target>Génération de statistiques</target>
+      </trans-unit>
+      <trans-unit id="853">
+        <source>Generation in progress</source>
+        <target>Génération en cours</target>
+      </trans-unit>
+      <trans-unit id="854">
+        <source>Loading</source>
+        <target>Chargement</target>
+      </trans-unit>
+      <trans-unit id="855">
+        <source>Select a period</source>
+        <target>Choisissez une période</target>
+      </trans-unit>
+      <trans-unit id="856">
+        <source>From the</source>
+        <target>Du</target>
+      </trans-unit>
+      <trans-unit id="857">
+        <source>to the</source>
+        <target>au</target>
+      </trans-unit>
+      <trans-unit id="858">
+        <source>The date/time format is invalid.</source>
+        <target>Le format de la date/heure n'est pas valide.</target>
+      </trans-unit>
+      <trans-unit id="859">
+        <source>The imputation has been saved.</source>
+        <target>L'imputation a été enregistrée.</target>
+      </trans-unit>
+      <trans-unit id="860">
+        <source>Some fields are missing or incorrect</source>
+        <target>Certains champs sont manquants ou incorrects</target>
+      </trans-unit>
+      <trans-unit id="861">
+        <source>Detailed balance</source>
+        <target>Caisse détaillée</target>
+      </trans-unit>
+      <trans-unit id="862">
+        <source>m/d/y</source>
+        <target>d/m/y</target>
+      </trans-unit>
+      <trans-unit id="863">
+        <source>Balance per act</source>
+        <target>Caisse par acte</target>
+      </trans-unit>
+      <trans-unit id="864">
+        <source>Acts</source>
+        <target>Actes</target>
+      </trans-unit>
+      <trans-unit id="865">
+        <source>Percentage</source>
+        <target>Pourcentage</target>
+      </trans-unit>
+      <trans-unit id="866">
+        <source>Accounts status</source>
+        <target>Etats des comptes</target>
+      </trans-unit>
+      <trans-unit id="867">
+        <source>Monetary accounts</source>
+        <target>Comptes monétaires</target>
+      </trans-unit>
+      <trans-unit id="868">
+        <source>Positives</source>
+        <target>Positifs</target>
+      </trans-unit>
+      <trans-unit id="869">
+        <source>Negatives</source>
+        <target>Négatifs</target>
+      </trans-unit>
+      <trans-unit id="870">
+        <source>Balance per method of payment</source>
+        <target>Caisse par mode de paiement</target>
+      </trans-unit>
+      <trans-unit id="871">
+        <source>Methods of payment</source>
+        <target>Modes de paiement</target>
+      </trans-unit>
+      <trans-unit id="872">
+        <source>By gender</source>
+        <target>Par sexe</target>
+      </trans-unit>
+      <trans-unit id="873">
+        <source>By age range</source>
+        <target>Par tranche d'âge</target>
+      </trans-unit>
+      <trans-unit id="874">
+        <source>Age range</source>
+        <target>Tranche d'âge</target>
+      </trans-unit>
+      <trans-unit id="875">
+        <source>By countries/cities</source>
+        <target>Par pays/villes</target>
+      </trans-unit>
+      <trans-unit id="876">
+        <source>Country/city</source>
+        <target>Pays/ville</target>
+      </trans-unit>
+      <trans-unit id="877">
+        <source>Amount of accounts</source>
+        <target>Nombre de comptes</target>
+      </trans-unit>
+      <trans-unit id="878">
+        <source>Account</source>
+        <target>Compte</target>
+      </trans-unit>
+      <trans-unit id="879">
+        <source>It is strongly recommended not to delete the 'Account' method of payment</source>
+        <target>Il est fortement recommandé de ne pas supprimer le mode de paiement 'Compte'</target>
+      </trans-unit>
+      <trans-unit id="880">
+        <source>The duration field is compulsory.</source>
+        <target>Le champ durée est obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="881">
+        <source>Export</source>
+        <target>Exporter</target>
+      </trans-unit>
+      <trans-unit id="882">
+        <source>Statistics exportation</source>
+        <target>Exportation des statistiques</target>
+      </trans-unit>
+      <trans-unit id="883">
+        <source>Caution: The above total is not the real status of the balance. Check the dashboard to get this information.</source>
+        <target>Attention: Le total ci-dessus ne représente pas le réel état de la caisse. Le tableau de bord contient la vraie valeur.</target>
+      </trans-unit>
+      <trans-unit id="884">
+        <source>By day/time slot</source>
+        <target>Par jour/horaire</target>
+      </trans-unit>
+      <trans-unit id="885">
+        <source>Day/time slot</source>
+        <target>Jour/horaire</target>
+      </trans-unit>
+      <trans-unit id="886">
+        <source>By public category</source>
+        <target>Par catégorie de public</target>
+      </trans-unit>
+      <trans-unit id="887">
+        <source>By act</source>
+        <target>Par acte</target>
+      </trans-unit>
+      <trans-unit id="888">
+        <source>By socio-economic group</source>
+        <target>Par catégorie socio-professionnelle</target>
+      </trans-unit>
+      <trans-unit id="889">
+        <source>By building/room/computer</source>
+        <target>Par bâtiment/salle/ordinateur</target>
+      </trans-unit>
+      <trans-unit id="890">
+        <source>By type of connection</source>
+        <target>Par type de connexion</target>
+      </trans-unit>
+      <trans-unit id="891">
+        <source>By way of awareness</source>
+        <target>Par moyen de connaissance</target>
+      </trans-unit>
+      <trans-unit id="892">
+        <source>Way of awareness</source>
+        <target>Moyen de connaissance</target>
+      </trans-unit>
+      <trans-unit id="893">
+        <source>No uses found between these two dates.</source>
+        <target>Pas d'usages trouvés entre ces deux dates.</target>
+      </trans-unit>
+      <trans-unit id="894">
+        <source>Other</source>
+        <target>Autre</target>
+      </trans-unit>
+      <trans-unit id="895">
+        <source>Not available</source>
+        <target>Non renseigné</target>
+      </trans-unit>
+      <trans-unit id="896">
+        <source>m/d/Y</source>
+        <target>d/m/Y</target>
+      </trans-unit>
+      <trans-unit id="897">
+        <source>Quantitative statement</source>
+        <target>Bilan quantitatif</target>
+      </trans-unit>
+      <trans-unit id="898">
+        <source>Calculated only for the uses that need a computer.</source>
+        <target>Calculé seulement pour les usages qui ont lieu sur un ordinateur.</target>
+      </trans-unit>
+      <trans-unit id="899">
+        <source>Not available</source>
+        <target>Non disponible</target>
+      </trans-unit>
+      <trans-unit id="900">
+        <source>Error 404: Page not found.</source>
+        <target>Erreur 404 : Page non trouvée.</target>
+      </trans-unit>
+      <trans-unit id="901">
+        <source>Y-m-d</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="902">
+        <source>Criterias</source>
+        <target>Critères</target>
+      </trans-unit>
+      <trans-unit id="903">
+        <source>Building/room/computer</source>
+        <target>Bâtiment/salle/ordinateur</target>
+      </trans-unit>
+      <trans-unit id="904">
+        <source>Total of uses</source>
+        <target>Total des usages</target>
+      </trans-unit>
+      <trans-unit id="905">
+        <source>inferior to 10</source>
+        <target>inférieur à 10</target>
+      </trans-unit>
+      <trans-unit id="906">
+        <source>11 to 20</source>
+        <target>11 à 20</target>
+      </trans-unit>
+      <trans-unit id="907">
+        <source>21 to 30</source>
+        <target>21 à 30</target>
+      </trans-unit>
+      <trans-unit id="908">
+        <source>31 to 40</source>
+        <target>31 à 40</target>
+      </trans-unit>
+      <trans-unit id="909">
+        <source>41 to 50</source>
+        <target>41 à 50</target>
+      </trans-unit>
+      <trans-unit id="910">
+        <source>51 to 60</source>
+        <target>51 à 60</target>
+      </trans-unit>
+      <trans-unit id="911">
+        <source>61 to 70</source>
+        <target>61 à 70</target>
+      </trans-unit>
+      <trans-unit id="912">
+        <source>71 to 80</source>
+        <target>71 à 80</target>
+      </trans-unit>
+      <trans-unit id="913">
+        <source>superior to 80</source>
+        <target>supérieur à 80</target>
+      </trans-unit>
+      <trans-unit id="914">
+        <source>Total of uses</source>
+        <target>Total des usages</target>
+      </trans-unit>
+      <trans-unit id="915">
+        <source>Total time</source>
+        <target>Temps total</target>
+      </trans-unit>
+      <trans-unit id="916">
+        <source>Total time of unique visitors</source>
+        <target>Temps total des visiteurs uniques</target>
+      </trans-unit>
+      <trans-unit id="917">
+        <source>Number of unique visitors</source>
+        <target>Nombre de visiteurs uniques</target>
+      </trans-unit>
+      <trans-unit id="918">
+        <source>Number of regular visitors</source>
+        <target>Nombre de visiteurs réguliers</target>
+      </trans-unit>
+      <trans-unit id="919">
+        <source>The uses have been deleted.</source>
+        <target>Les usages ont été effacés.</target>
+      </trans-unit>
+      <trans-unit id="920">
+        <source>The PDF export is not recommended for the statements.</source>
+        <target>L'export PDF est déconseillé pour les bilans.</target>
+      </trans-unit>
+      <trans-unit id="921">
+        <source>Number of uses (with a duration or not)</source>
+        <target>Nombre d'usages (ayant ou non une durée)</target>
+      </trans-unit>
+      <trans-unit id="922">
+        <source>Choose the format to export</source>
+        <target>Choisissez le format pour l'export</target>
+      </trans-unit>
+      <trans-unit id="923">
+        <source>Details per categories</source>
+        <target>Détails par catégories</target>
+      </trans-unit>
+      <trans-unit id="924">
+        <source>Details per time slots</source>
+        <target>Détails par périodes</target>
+      </trans-unit>
+      <trans-unit id="925">
+        <source>Required.</source>
+        <target>Obligatoire.</target>
+      </trans-unit>
+      <trans-unit id="926">
+        <source>Prices</source>
+        <target>Prix</target>
+      </trans-unit>
+      <trans-unit id="927">
+        <source>Database name</source>
+        <target>Nom de la base</target>
+      </trans-unit>
+      <trans-unit id="928">
+        <source>Parameters</source>
+        <target>Paramètres</target>
+      </trans-unit>
+      <trans-unit id="929">
+        <source>Moderators</source>
+        <target>Modérateurs</target>
+      </trans-unit>
+      <trans-unit id="930">
+        <source>History</source>
+        <target>Historique</target>
+      </trans-unit>
+      <trans-unit id="931">
+        <source>Anonymization</source>
+        <target>Anonymisation</target>
+      </trans-unit>
+      <trans-unit id="932">
+        <source>Accounts</source>
+        <target>Comptes</target>
+      </trans-unit>
+      <trans-unit id="933">
+        <source>Some modules are not activated because dependencies are missing. Please go to the configuration menu to correct theses issues.</source>
+        <target>Certains modules ne sont pas activés car des dépendances sont manquantes. Pour corriger ces problèmes, rendez vous dans le menu de configuration.</target>
+      </trans-unit>
+      <trans-unit id="934">
+        <source>Version</source>
+        <target>Version</target>
+      </trans-unit>
+      <trans-unit id="935">
+        <source>GENEPI is distributed under the terms of the</source>
+        <target>GENEPI est distribué sous la licence</target>
+      </trans-unit>
+      <trans-unit id="936">
+        <source>This project is an initiative of the</source>
+        <target>Le projet est une initiative du</target>
+      </trans-unit>
+      <trans-unit id="937">
+        <source>Original process requestors</source>
+        <target>Maîtres d'ouvrage du projet originel</target>
+      </trans-unit>
+      <trans-unit id="938">
+        <source>It has been developped during the Industrial Projects of the Engineering School</source>
+        <target>Il a été développé durant les Projets Industriels de l'Ecole d'Ingénieurs</target>
+      </trans-unit>
+      <trans-unit id="939">
+        <source>Supervision</source>
+        <target>Encadrement</target>
+      </trans-unit>
+      <trans-unit id="940">
+        <source>Student developpers</source>
+        <target>Etudiants-développeurs</target>
+      </trans-unit>
+      <trans-unit id="941">
+        <source>The original project has been funded by</source>
+        <target>Le projet originel a été financé par</target>
+      </trans-unit>
+      <trans-unit id="942">
+        <source>The Drôme department</source>
+        <target>Le département de la Drôme</target>
+      </trans-unit>
+      <trans-unit id="943">
+        <source>The Rhône-Alpes region</source>
+        <target>La région Rhône-Alpes</target>
+      </trans-unit>
+      <trans-unit id="944">
+        <source>The Europe</source>
+        <target>L'Europe</target>
+      </trans-unit>
+      <trans-unit id="945">
+        <source>For further information</source>
+        <target>Pour plus d'informations</target>
+      </trans-unit>
+      <trans-unit id="946">
+        <source>: </source>
+        <target> : </target>
+      </trans-unit>
+      <trans-unit id="947">
+        <source>The financier has been updated.</source>
+        <target>Le financeur a été mis à jour.</target>
+      </trans-unit>
+      <trans-unit id="948">
+        <source>:</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="949">
+        <source>Financeur</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="950">
+        <source>Administrator</source>
+        <target>Administrateur</target>
+      </trans-unit>
+      <trans-unit id="951">
+        <source>Administrators</source>
+        <target>Administrateurs</target>
+      </trans-unit>
+      <trans-unit id="952">
+        <source>Administrators List</source>
+        <target>Liste des administrateurs</target>
+      </trans-unit>
+      <trans-unit id="953">
+        <source>Is an administrator</source>
+        <target>Est un administrateur</target>
+      </trans-unit>
+      <trans-unit id="954">
+        <source>Follow administrator actions</source>
+        <target>Suivre les actions de l'administrateur</target>
+      </trans-unit>
+      <trans-unit id="955">
+        <source>Parameters setting in this page will only affect your own account.</source>
+        <target>Le réglage des paramètres sur cette page n'affectera que votre compte.</target>
+      </trans-unit>
+      <trans-unit id="956">
+        <source>This menu allows you to delete imputations of all types. Fot the multiple services, the deletion of the imputation will not delete the created account. Use the Users/Manage the accounts menu to do so.</source>
+        <target>Ce menu vous permet de supprimer des imputations de tous types. Pour les services multiples, la suppression de l'imputation ne supprimera pas le compte créé. Pour cela, utiliser le menu Utilisateurs/Gérer les comptes.</target>
+      </trans-unit>
+      <trans-unit id="957">
+        <source>Anonymized user</source>
+        <target>Utilisateur anonymisé</target>
+      </trans-unit>
+      <trans-unit id="958">
+        <source>No uses found between these two dates</source>
+        <target>Pas d'usages trouvés entre ces deux dates</target>
+      </trans-unit>
+      <trans-unit id="959">
+        <source>Anonymized</source>
+        <target>Anonymisé</target>
+      </trans-unit>
+      <trans-unit id="960">
+        <source>week(s)</source>
+        <target>semaine(s)</target>
+      </trans-unit>
+      <trans-unit id="961">
+        <source>unit(s)</source>
+        <target>unité(s)</target>
+      </trans-unit>
+      <trans-unit id="962">
+        <source>quarter hour</source>
+        <target>quart d'heure</target>
+      </trans-unit>
+      <trans-unit id="963">
+        <source>half hour</source>
+        <target>demi-heure</target>
+      </trans-unit>
+      <trans-unit id="964">
+        <source>Free outflow</source>
+        <target>Débit gratuit</target>
+      </trans-unit>
+      <trans-unit id="965">
+        <source>It is strongly recommended not to delete the 'Account' and 'Free' methods of payment</source>
+        <target>Il est fortement recommandé de ne pas supprimer les modes de paiement 'Compte' et 'Gratuit'</target>
+      </trans-unit>
+      <trans-unit id="966">
+        <source>The below total is calculated automatically but you can modify it.</source>
+        <target>Le total ci-dessous est calculé automatiquement mais vous pouvez le modifier.</target>
+      </trans-unit>
+      <trans-unit id="967">
+        <source>Temporal statistics per act depending on different criterias.</source>
+        <target>Statistiques temporelles par acte selon différents critères.</target>
+      </trans-unit>
+      <trans-unit id="968">
+        <source>Quantitative statistics per act depending on different criterias.</source>
+        <target>Statistiques quantitatives par acte selon différents critères.</target>
+      </trans-unit>
+      <trans-unit id="969">
+        <source>Quantitative statistics per gender, city and age range depending on the category.</source>
+        <target>Statistiques quantitatives par sexe, ville et tranche d'âge selon la catégorie.</target>
+      </trans-unit>
+      <trans-unit id="970">
+        <source>Temporal statistics per gender, city and age range depending on the category.</source>
+        <target>Statistiques temporelles par sexe, ville et tranche d'âge selon la catégorie.</target>
+      </trans-unit>
+      <trans-unit id="971">
+        <source>Quantitative statistics per gender, city and age range depending on the time slot.</source>
+        <target>Statistiques quantitatives par sexe, ville et tranche d'âge selon la période.</target>
+      </trans-unit>
+      <trans-unit id="972">
+        <source>Temporal statistics per gender, city and age range depending on the time slot.</source>
+        <target>Statistiques temporelles par sexe, ville et tranche d'âge selon la période.</target>
+      </trans-unit>
+      <trans-unit id="973">
+        <source>Reloading</source>
+        <target>Rechargement</target>
+      </trans-unit>
+      <trans-unit id="974">
+        <source>This account will be shared between all these users</source>
+        <target>Ce compte sera partagé entre tous ces utilisateurs</target>
+      </trans-unit>
+      <trans-unit id="975">
+        <source>The name GENEPI was proposed by Grégory Watremez, director of the media library of Romans-sur-Isère, and chosen by the Drôme EPI moderators.</source>
+        <target>Le nom GENEPI a été proposé par Grégory Watremez, animateur à la médiathèque de Romans-sur-Isère, et retenu par les animateurs des EPI de la Drôme.</target>
+      </trans-unit>
+      <trans-unit id="976">
+        <source>Email addresses export</source>
+        <target>Export des adresses e-mail</target>
+      </trans-unit>
+      <trans-unit id="977">
+        <source>This menu allows you to export email addresses from selected users. To export the email address of an user, just tick the corresponding box.</source>
+        <target>Ce menu vous permet d'exporter les adresses e-mail d'utilisateurs sélectionnés. Pour exporter l'adresse e-mail d'un utilisateur, cochez la case correspondante.</target>
+      </trans-unit>
+      <trans-unit id="978">
+        <source>Export email addresses</source>
+        <target>Exporter les adresses e-mail</target>
+      </trans-unit>
+      <trans-unit id="979">
+        <source>email addresses exported</source>
+        <target>adresses e-mail exportées</target>
+      </trans-unit>
+      <trans-unit id="980">
+        <source>No email addresses selected.</source>
+        <target>Pas d'adresses e-mail sélectionnées.</target>
+      </trans-unit>
+      <trans-unit id="981">
+        <source>Users category change</source>
+        <target>Changement de catégorie des utilisateurs</target>
+      </trans-unit>
+      <trans-unit id="982">
+        <source>You have just imputed a subscription to one or several users. This menu allows you to change their category.</source>
+        <target>Vous venez d'imputer un abonnement à un ou plusieurs utilisateurs. Ce menu vous permet de changer leur catégorie.</target>
+      </trans-unit>
+      <trans-unit id="983">
+        <source>The categories have been changed.</source>
+        <target>Les catégories ont été modifiées.</target>
+      </trans-unit>
+      <trans-unit id="984">
+        <source>Ignore this step</source>
+        <target>Ignorer cette étape</target>
+      </trans-unit>
+      <trans-unit id="985">
+        <source>Upload/Download</source>
+        <target>Remonter/Télécharger</target>
+      </trans-unit>
+      <trans-unit id="986">
+        <source>This menu allows you to upload the statistics of your structure. They will used by your overall structure.</source>
+        <target>Ce menu vous permet de remonter sur le serveur les statistiques de votre structure. Elles seront utilisées par votre structure porteuse.</target>
+      </trans-unit>
+      <trans-unit id="987">
+        <source>Upload or download statistics</source>
+        <target>Remonter ou télécharger les statistiques </target>
+      </trans-unit>
+      <trans-unit id="988">
+        <source>Last upload:</source>
+        <target>Dernière remontée :</target>
+      </trans-unit>
+      <trans-unit id="989">
+        <source>Upload on the server</source>
+        <target>Remonter sur le serveur</target>
+      </trans-unit>
+      <trans-unit id="990">
+        <source>Download on your computer</source>
+        <target>Télécharger sur votre ordinateur</target>
+      </trans-unit>
+      <trans-unit id="991">
+        <source>Number of valid subscriptions today</source>
+        <target>Nombre d'abonnements valides aujourd'hui</target>
+      </trans-unit>
+      <trans-unit id="992">
+        <source>Manage public categories</source>
+        <target>Gérer les catégories de public</target>
+      </trans-unit>
+      <trans-unit id="993">
+        <source>By day</source>
+        <target>Par jour</target>
+      </trans-unit>
+      <trans-unit id="994">
+        <source>Day</source>
+        <target>Jour</target>
+      </trans-unit>
+      <trans-unit id="995">
+        <source>By time slot</source>
+        <target>Par horaire</target>
+      </trans-unit>
+      <trans-unit id="996">
+        <source>Time slot</source>
+        <target>Horaire</target>
+      </trans-unit>
+      <trans-unit id="997">
+        <source>List the groups</source>
+        <target>Lister les groupes</target>
+      </trans-unit>
+      <trans-unit id="998">
+        <source>Add a group</source>
+        <target>Ajouter un groupe</target>
+      </trans-unit>
+      <trans-unit id="999">
+        <source>Groups</source>
+        <target>Groupes</target>
+      </trans-unit>
+      <trans-unit id="1000">
+        <source>Groups list</source>
+        <target>Liste des groupes</target>
+      </trans-unit>
+      <trans-unit id="1001">
+        <source>Group name</source>
+        <target>Nom du groupe</target>
+      </trans-unit>
+      <trans-unit id="1002">
+        <source>Manage users</source>
+        <target>Gérer les utilisateurs</target>
+      </trans-unit>
+      <trans-unit id="1003">
+        <source>Group users list</source>
+        <target>Liste des utilisateurs du groupe</target>
+      </trans-unit>
+      <trans-unit id="1004">
+        <source>Users for the group:</source>
+        <target>Utilisateurs du groupe:</target>
+      </trans-unit>
+      <trans-unit id="1005">
+        <source>User name</source>
+        <target>Nom de l'utilisateur</target>
+      </trans-unit>
+      <trans-unit id="1006">
+        <source>Group deletion</source>
+        <target>Suppression du groupe</target>
+      </trans-unit>
+      <trans-unit id="1007">
+        <source>Caution, this group will be deleted.</source>
+        <target>Attention, ce groupe sera supprimé.</target>
+      </trans-unit>
+      <trans-unit id="1008">
+        <source>Edit Group</source>
+        <target>Editer le groupe</target>
+      </trans-unit>
+      <trans-unit id="1009">
+        <source>New Group</source>
+        <target>Nouveau Groupe</target>
+      </trans-unit>
+      <trans-unit id="1010">
+        <source>Calendar</source>
+        <target>Calendrier</target>
+      </trans-unit>
+      <trans-unit id="1011">
+        <source>Min and max time displayed in the calendar</source>
+        <target>Heures minimale et maximale affichée dans le calendrier</target>
+      </trans-unit>
+      <trans-unit id="1012">
+        <source>System Parameters</source>
+        <target>Paramètres système</target>
+      </trans-unit>
+      <trans-unit id="1013">
+        <source>Manage agenda</source>
+        <target>Gérer le calendrier</target>
+      </trans-unit>
+      <trans-unit id="1014">
+        <source>Filters</source>
+        <target>Filtres</target>
+      </trans-unit>
+      <trans-unit id="1015">
+        <source>It's done !</source>
+        <target>C'est fait !</target>
+      </trans-unit>
+      <trans-unit id="1016">
+        <source>New filter</source>
+        <target>Nouveau filtre</target>
+      </trans-unit>
+      <trans-unit id="1017">
+        <source>New Filter</source>
+        <target>Nouveau Filtre</target>
+      </trans-unit>
+      <trans-unit id="1018">
+        <source>Name:</source>
+        <target>Nom:</target>
+      </trans-unit>
+      <trans-unit id="1019">
+        <source>Description:</source>
+        <target>Description:</target>
+      </trans-unit>
+      <trans-unit id="1020">
+        <source>Global Whitelist:</source>
+        <target>Whiteliste globale</target>
+      </trans-unit>
+      <trans-unit id="1021">
+        <source>Filter's Whitelist:</source>
+        <target>Whiteliste du filtre</target>
+      </trans-unit>
+      <trans-unit id="1022">
+        <source>Whitelist Helper:</source>
+        <target>Aide sur les Whitelistes</target>
+      </trans-unit>
+      <trans-unit id="1023">
+        <source>Global Blacklist:</source>
+        <target>Blackliste globale</target>
+      </trans-unit>
+      <trans-unit id="1024">
+        <source>Filter's Blacklist:</source>
+        <target>Blackliste du filtre</target>
+      </trans-unit>
+      <trans-unit id="1025">
+        <source>Blacklist Helper:</source>
+        <target>Aide sur les blacklistes</target>
+      </trans-unit>
+      <trans-unit id="1026">
+        <source>External blacklist to apply:</source>
+        <target>Blackliste externes à appliquer:</target>
+      </trans-unit>
+      <trans-unit id="1027">
+        <source>External lists helper:</source>
+        <target>Aide sur les listes externes:</target>
+      </trans-unit>
+      <trans-unit id="1028">
+        <source>Edit Filter</source>
+        <target>Modifier le filtre</target>
+      </trans-unit>
+      <trans-unit id="1029">
+        <source>Description</source>
+        <target>Description</target>
+      </trans-unit>
+      <trans-unit id="1030">
+        <source>Manage periods</source>
+        <target>Gérer les périodes</target>
+      </trans-unit>
+      <trans-unit id="1031">
+        <source>Period deletion</source>
+        <target>Suppression de la période</target>
+      </trans-unit>
+      <trans-unit id="1032">
+        <source>Caution, this period will be deleted.</source>
+        <target>Attention, cette période sera supprimée.</target>
+      </trans-unit>
+      <trans-unit id="1033">
+        <source>From</source>
+        <target>De</target>
+      </trans-unit>
+      <trans-unit id="1034">
+        <source>To</source>
+        <target>à</target>
+      </trans-unit>
+      <trans-unit id="1035">
+        <source>Add a period</source>
+        <target>Ajouter une période</target>
+      </trans-unit>
+      <trans-unit id="1036">
+        <source>Edit a event</source>
+        <target>Modifier l'évenement</target>
+      </trans-unit>
+      <trans-unit id="1037">
+        <source>Add a event</source>
+        <target>Ajout un évenement</target>
+      </trans-unit>
+      <trans-unit id="1038">
+        <source>Title</source>
+        <target>Titre</target>
+      </trans-unit>
+      <trans-unit id="1039">
+        <source>Close</source>
+        <target>Fermer</target>
+      </trans-unit>
+      <trans-unit id="1040">
+        <source>Public</source>
+        <target>Public</target>
+      </trans-unit>
+      <trans-unit id="1041">
+        <source>Public title</source>
+        <target>Titre public</target>
+      </trans-unit>
+      <trans-unit id="1042">
+        <source>Public description</source>
+        <target>Description publique</target>
+      </trans-unit>
+      <trans-unit id="1043">
+        <source>Caution, this reservation will be deleted.</source>
+        <target>Attention, cette réservation sera supprimée.</target>
+      </trans-unit>
+      <trans-unit id="1044">
+        <source>Type</source>
+        <target>Type</target>
+      </trans-unit>
+      <trans-unit id="1045">
+        <source>Start date</source>
+        <target>Date de départ</target>
+      </trans-unit>
+      <trans-unit id="1046">
+        <source>at</source>
+        <target>à</target>
+      </trans-unit>
+      <trans-unit id="1047">
+        <source>Add a reservation</source>
+        <target>Ajouter une réservation</target>
+      </trans-unit>
+      <trans-unit id="1048">
+        <source>Event deletion</source>
+        <target>Supprimer l'évenement</target>
+      </trans-unit>
+      <trans-unit id="1049">
+        <source>Caution, this event will be deleted.</source>
+        <target>Attention, cette évenement sera supprimé.</target>
+      </trans-unit>
+      <trans-unit id="1050">
+        <source>Reservation</source>
+        <target>Réservation</target>
+      </trans-unit>
+      <trans-unit id="1051">
+        <source>Public event</source>
+        <target>Evenement public</target>
+      </trans-unit>
+      <trans-unit id="1052">
+        <source>Manage event</source>
+        <target>Gérer l'évenement</target>
+      </trans-unit>
+      <trans-unit id="1053">
+        <source>No public event</source>
+        <target>Pas d'évenement public</target>
+      </trans-unit>
+      <trans-unit id="1054">
+        <source>Add event</source>
+        <target>Ajouter un évenement</target>
+      </trans-unit>
+      <trans-unit id="1055">
+        <source>Edit reservation</source>
+        <target>Modifier la réservation</target>
+      </trans-unit>
+      <trans-unit id="1056">
+        <source>Reservations</source>
+        <target>Réservations</target>
+      </trans-unit>
+      <trans-unit id="1057">
+        <source>January</source>
+        <target>Janvier</target>
+      </trans-unit>
+      <trans-unit id="1058">
+        <source>February</source>
+        <target>Février</target>
+      </trans-unit>
+      <trans-unit id="1059">
+        <source>March</source>
+        <target>Mars</target>
+      </trans-unit>
+      <trans-unit id="1060">
+        <source>April</source>
+        <target>Avril</target>
+      </trans-unit>
+      <trans-unit id="1061">
+        <source>June</source>
+        <target>Juin</target>
+      </trans-unit>
+      <trans-unit id="1062">
+        <source>July</source>
+        <target>Juillet</target>
+      </trans-unit>
+      <trans-unit id="1063">
+        <source>August</source>
+        <target>Aout</target>
+      </trans-unit>
+      <trans-unit id="1064">
+        <source>September</source>
+        <target>Septembre</target>
+      </trans-unit>
+      <trans-unit id="1065">
+        <source>October</source>
+        <target>Octobre</target>
+      </trans-unit>
+      <trans-unit id="1066">
+        <source>November</source>
+        <target>Novembre</target>
+      </trans-unit>
+      <trans-unit id="1067">
+        <source>December</source>
+        <target>Décembre</target>
+      </trans-unit>
+      <trans-unit id="1068">
+        <source>Sun</source>
+        <target>Dim</target>
+      </trans-unit>
+      <trans-unit id="1069">
+        <source>Mon</source>
+        <target>Lun</target>
+      </trans-unit>
+      <trans-unit id="1070">
+        <source>Tue</source>
+        <target>Mar</target>
+      </trans-unit>
+      <trans-unit id="1071">
+        <source>Wed</source>
+        <target>Mer</target>
+      </trans-unit>
+      <trans-unit id="1072">
+        <source>Thu</source>
+        <target>Jeu</target>
+      </trans-unit>
+      <trans-unit id="1073">
+        <source>Fri</source>
+        <target>Ven</target>
+      </trans-unit>
+      <trans-unit id="1074">
+        <source>Sat</source>
+        <target>Sam</target>
+      </trans-unit>
+      <trans-unit id="1075">
+        <source>HH:mm{ - HH:mm} </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1076">
+        <source>MMMM yyyy</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1077">
+        <source>MMMM d[ yyyy]{ '-'[ MMM] d yyyy}</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1078">
+        <source>dddd, MMM d, yyyy</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1079">
+        <source>today</source>
+        <target>Aujourd'hui</target>
+      </trans-unit>
+      <trans-unit id="1080">
+        <source>month</source>
+        <target>mois</target>
+      </trans-unit>
+      <trans-unit id="1081">
+        <source>week</source>
+        <target>semaine</target>
+      </trans-unit>
+      <trans-unit id="1082">
+        <source>day</source>
+        <target>jour</target>
+      </trans-unit>
+      <trans-unit id="1083">
+        <source>Filter</source>
+        <target>Filtre</target>
+      </trans-unit>
+      <trans-unit id="1084">
+        <source>Rooms only</source>
+        <target>Salles seulement</target>
+      </trans-unit>
+      <trans-unit id="1085">
+        <source>Computers only</source>
+        <target>Postes seulement</target>
+      </trans-unit>
+      <trans-unit id="1086">
+        <source>Reservation deletion</source>
+        <target>Supprimer une réservation</target>
+      </trans-unit>
+      <trans-unit id="1087">
+        <source>Group</source>
+        <target>Groupe</target>
+      </trans-unit>
+      <trans-unit id="1088">
+        <source>Event</source>
+        <target>Evenement</target>
+      </trans-unit>
+      <trans-unit id="1089">
+        <source>no user yet ...</source>
+        <target>encore aucun utilisateur ...</target>
+      </trans-unit>
+      <trans-unit id="1090">
+        <source>Search</source>
+        <target>Rechercher</target>
+      </trans-unit>
+      <trans-unit id="1091">
+        <source>Reservation deteled</source>
+        <target>Réservation supprimée</target>
+      </trans-unit>
+      <trans-unit id="1092">
+        <source>Events</source>
+        <target>Evenements</target>
+      </trans-unit>
+      <trans-unit id="1093">
+        <source>Link Filters</source>
+        <target>Lier les Filtres</target>
+      </trans-unit>
+      <trans-unit id="1094">
+        <source>Public Category</source>
+        <target>Catégorie de public</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

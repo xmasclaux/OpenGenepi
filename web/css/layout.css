@@ -1,0 +1,189 @@
+body 
+{
+	background-repeat: repeat;
+	background-image: url('../images/fontStripe.png'); 
+	background-attachment: fixed; 
+	padding: 0px;
+	margin: 0px;
+	font-family: Verdana,Arial,sans-serif;
+}
+
+div#ban 
+{
+  	width: 100%;
+	height: 150px;
+	background-color: #e1e1e1;
+	border-bottom: 5px solid #F2F2F2;
+	position: absolute; 
+	top: 0px;
+}
+
+div#pageFrame, div#menus 
+{
+	overflow: auto;
+	
+	/*Redimensionnable*/
+	position: absolute;
+	width: 94%;
+	margin-left: 3%;
+	margin-right: 3%;
+	min-width: 920px;
+}
+	
+div#menus 
+{   
+	
+	height: 150px;
+	margin-top: 0px;
+	
+	/*Redimensionnable*/
+	overflow: visible;
+}
+
+
+div#configurationAndUserName 
+{
+	width: auto;
+	height: 40px;
+	position: relative;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: 30px;
+}
+
+
+div#UserNameDisplay 
+{
+	float:right;
+	margin-top: 12px;
+	margin-right: 20px;
+	color: #333333;
+	font: 13px "Lucida Grande", Lucida, Verdana, sans-serif;
+	white-space:normal;
+	font-weight:bold;
+}
+
+div#configurationMenu 
+{
+	width: 130px;
+	height: 40px;
+	background-color: #F2F2F2;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius:5px;
+	position: relative;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: 30px;
+	float:right;
+}
+
+
+
+div#configurationMenuViewer 
+{
+	width: 87px;
+	height: 40px;
+	background-color: #600b0f;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius:5px;
+	position: relative;
+	margin-left: auto;
+	margin-right: 30px;
+	float:right;
+}
+
+div#configurationMenuViewer span
+{
+	float: right;
+}
+
+div#configurationMenu span 
+{
+	float: right;
+}
+
+div#mainMenu 
+{
+	position: relative;
+	width: 100%;
+	height: 90px;
+	background-color: #fffFFf;
+	border: 2px solid #e04a00;
+	border-bottom: none; 
+	-moz-border-radius: 10px 10px 0px 0px;
+	-webkit-border-top-left-radius: 10px; /*pour chrome*/
+	-webkit-border-top-right-radius: 10px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 0px;
+	margin-top: 7px; 
+}
+	
+div#pageFrame 
+{
+	min-height: 600px;
+	height: auto;
+	background-color: #f2f2f2;
+	border-color: #e04a00;
+	border: 2px solid #e04a00; 
+	border-top: 1px solid #e04a00;
+	padding: 0;
+	
+	/*Redimensionnable*/
+	margin-top: 149px;
+	margin-bottom: 25px;
+}
+	
+span#secondaryMenu 
+{
+	position: fixed;
+	width: 160px;
+	background-color: #e1e1e1;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius:5px;
+	border: 2px solid #e04a00;
+	padding: 35px;
+	min-height: 200px;
+	height: auto;
+	margin: 0px;
+	margin-left: 15px;
+	margin-top: 25px;
+	margin-bottom: auto;
+	padding-bottom: 15px;
+}
+
+span#pageContent,span#feedbackFrame
+{
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius:5px;
+	border: 2px solid #e04a00;
+	background-color: #e1e1e1;
+	padding: 10px;
+	position: relative;
+	min-width: 600px;
+	float: right;
+	margin: 0px;
+	margin-right: 15px;
+	margin-top: 25px;
+}
+
+span#feedbackFrame 
+{
+	min-height: 20px;
+	margin-bottom: 0px;
+	display: none;
+}
+		
+span#pageContent 
+{
+	height: auto;
+	min-height: 380px;
+	overflow: visible;
+	margin-bottom: 25px;
+}

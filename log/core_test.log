@@ -1,0 +1,26 @@
+Feb 15 11:11:43 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'kernel',  'action' => 'index',)
+Feb 15 11:11:43 symfony [info] {swPatternRouting} Match route "default" (/:module/:action/*) for /dbi/index with parameters array (  'module' => 'dbi',  'action' => 'index',)
+Feb 15 11:11:43 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Feb 15 11:11:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 15 11:11:43 symfony [info] {dbiActions} Call "dbiActions->executeIndex()"
+Feb 15 11:11:44 symfony [info] {sfPHPView} Render "/opt/genepi/dev.opengenepi.net/GENEPI-0.9.2/apps/core/modules/dbi/templates/indexSuccess.php"
+Feb 15 11:11:44 symfony [info] {sfPHPView} Decorate content with "/opt/genepi/dev.opengenepi.net/GENEPI-0.9.2/apps/core/templates/layout.php"
+Feb 15 11:11:44 symfony [info] {sfPHPView} Render "/opt/genepi/dev.opengenepi.net/GENEPI-0.9.2/apps/core/templates/layout.php"
+Feb 15 11:11:44 symfony [info] {sfWebResponse} Send content (0 o)
+Feb 15 11:11:44 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'kernel',  'action' => 'index',)
+Feb 15 11:11:44 symfony [info] {swPatternRouting} Match route "default" (/:module/:action/*) for /ihm/index with parameters array (  'module' => 'ihm',  'action' => 'index',)
+Feb 15 11:11:45 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Feb 15 11:11:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 15 11:11:45 symfony [info] {ihmActions} Call "ihmActions->executeIndex()"
+Feb 15 11:11:45 symfony [info] {ihmActions} Forward to action "default/module"
+Feb 15 11:11:45 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Feb 15 11:11:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 15 11:11:45 symfony [info] {defaultActions} Call "defaultActions->executeModule()"
+Feb 15 11:11:45 symfony [info] {sfPHPView} Render "/opt/genepi/dev.opengenepi.net/GENEPI-0.9.2/lib/vendor/symfony/lib/controller/default/templates/moduleSuccess.php"
+Feb 15 11:11:45 symfony [info] {sfPHPView} Decorate content with "/opt/genepi/dev.opengenepi.net/GENEPI-0.9.2/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Feb 15 11:11:45 symfony [info] {sfPHPView} Render "/opt/genepi/dev.opengenepi.net/GENEPI-0.9.2/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Feb 15 11:11:45 symfony [info] {sfWebResponse} Send content (1919 o)
+Feb 15 11:11:45 symfony [info] {swPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'kernel',  'action' => 'index',)
+Feb 15 11:11:45 symfony [info] {swPatternRouting} Match route "default" (/:module/:action/*) for /kernel/index with parameters array (  'module' => 'kernel',  'action' => 'index',)
+Feb 15 11:11:45 symfony [info] {sfFrontWebController} Action "kernel/index" does not exist
+Feb 15 11:11:45 symfony [err] {sfError404Exception} Action "kernel/index" does not exist.

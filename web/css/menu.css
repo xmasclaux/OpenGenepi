@@ -1,0 +1,174 @@
+div#scrollButtons 
+{
+	overflow: visible;
+ 	margin:0;
+ 	height:69px;
+ 	width: 94%;
+ 	margin-right: 3%;
+ 	margin-left: 3%;
+ 	padding:0;
+ 	list-style-type:none;
+ 	margin-top: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+ 
+span#topLeftLogo
+{
+	height: 90px;
+	width: 200px;
+	float: left;
+	margin-left: 15px;
+	overflow: hidden;
+	padding: 0px;
+}
+  
+span.leftScroll, span.rightScroll
+{
+	border: 1px solid #e04a00;
+	height:65px;
+	width: 40px;
+	margin-left: 5px;
+}
+
+
+span.leftScroll
+{
+	float: right;
+	margin-right: 5px;	
+	-moz-border-radius: 10px 0px 0px 10px;
+	-webkit-border-top-left-radius:10px; 
+	-webkit-border-bottom-left-radius:10px; 
+	background:url(../images/scrollLeftArrow.png) no-repeat;
+	background-position: 0px 12px;
+}
+
+span.rightScroll
+{
+	float: right;
+	background:url(../images/scrollRightArrow.png) no-repeat;
+	background-position: 0px 12px;
+	-moz-border-radius: 0px 10px 10px 0px;
+	-webkit-border-top-right-radius:10px; 
+	-webkit-border-bottom-right-radius:10px;
+	
+}
+
+span#rightScroll:hover
+{
+	background:url(../images/scrollRightArrowHover.png) no-repeat;
+	background-position: 0px 12px;
+	border:3px solid #4f4a4a;
+}
+
+span#leftScroll:hover
+{
+	background:url(../images/scrollLeftArrowHover.png) no-repeat;
+	background-position: 0px 12px;
+	border:3px solid #4f4a4a;
+}
+
+div#frameLimit 
+{
+ 	height:67px;
+}
+ 
+div#slideMenu 
+{
+	overflow: hidden;
+ 	margin:0; 
+ 	padding:0;
+ 	list-style-type:none;
+ 	height:90px;
+ 	width: 70%;
+ 	float: right;
+ 	margin-left: 5px;
+}
+ 
+ 
+ul#list
+{
+ 	margin: 0px;
+	padding: 0px;
+	width: 0px;
+	overflow: hidden;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+ul#list li {
+ 	margin: 0px;
+ 	padding-right: 10px;
+ 	padding-left: 10px;
+ 	height:67px; 
+ 	display:table-cell;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+ul#list li img 
+{
+    height: 50px;
+    width: 50px;
+    border: none;
+}
+
+
+ul#list li a 
+{
+	 padding-right: 5px;
+	 padding-left: 5px;
+	 display:block;
+	 float:left; 
+	 height:67px;  
+	 min-width:60px;
+	 border:1px solid #f2f2f2;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	 line-height:65px; /*hauteur de l'image de fond*/
+ 	 background: #F2F2F2 url(../images/tableTh.png) 50% 50% repeat-x;
+	 font-size: 15px;
+	 color:#ffffff;
+	 font-weight:bold;
+	 text-align:center;
+	 white-space: nowrap;
+}
+
+ul#list li a:hover 
+{
+	 margin: 0px;
+	 border:2px solid #aaaaaa;
+	 background: #333333 url(../images/tableTitleGrey.png) 50% 50% repeat-x; 
+}  
+
+.unclickableLeftArrow
+{
+	border: none;
+	background:url(../images/scrollLeftArrowHover.png) no-repeat;
+	background-position: 0px 12px;
+	float: right;
+	-moz-border-radius: 10px 0px 0px 10px;
+	-webkit-border-top-left-radius:10px; 
+	-webkit-border-bottom-left-radius:10px;
+	height:65px;
+	width: 40px;
+	margin-left: 5px;
+}
+
+.unclickableRightArrow
+{
+	border: 3px solid #4f4a4a;
+	background:url(../images/scrollRightArrowHover.png) no-repeat;
+	background-position: 0px 12px;
+	float: right;
+	-moz-border-radius: 0px 10px 10px 0px;
+	-webkit-border-top-right-radius:10px; 
+	-webkit-border-bottom-right-radius:10px;
+	height:65px;
+	width: 40px;
+	margin-left: 5px;
+}
